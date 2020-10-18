@@ -40,11 +40,11 @@ hero_media = "book.svg"
   url = "docs/"
   label = "Get Started"
   icon_pack = "fas"
-  icon = "book"
+  icon = "arrow-circle-right"
   
-[cta_alt]
-  url = "docs/"
-  label = "View Documentation"
+# [cta_alt]
+#   url = "docs/"
+#   label = "View Documentation"
 
 # Note. An optional note to show underneath the links.
 # [cta_note]
