@@ -40,7 +40,7 @@ hero_media = "book.svg"
   url = "docs/"
   label = "Get Started"
   icon_pack = "fas"
-  icon = "fa-book"
+  icon = "book"
   
 [cta_alt]
   url = "docs/"
