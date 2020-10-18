@@ -37,7 +37,7 @@ font_size = "L"
 #   For personal sites, choose "Person".
 #   For organizations and projects, choose from https://schema.org/Organization#subtypes
 #   E.g. Person, Organization, LocalBusiness, Project, EducationalOrganization
-site_type = "Project"
+site_type = "EducationalOrganization"
 
 # Local business type (optional)
 # If you entered "LocalBusiness" above, choose the type of business from https://schema.org/LocalBusiness#subtypes
@@ -45,10 +45,10 @@ local_business_type = ""
 
 # Organization name (optional)
 # Enter an organization or project name. Defaults to the site title from `config.toml`.
-org_name = ""
+org_name = "International Network of Open Science & Scholarship Communities (INOSC)"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = ""
+description = "INOSC Starter Kit - Set up and foster a local Open Science Community"
 
 ############################
 ## Site Features
@@ -98,7 +98,7 @@ twitter = ""
 #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
 date_format = "Jan 2, 2006"
 #   Examples: "3:04 pm" or "15:04"
-time_format = "3:04 PM"
+time_format = "15:04"
 
 ############################
 ## Advanced
@@ -119,7 +119,7 @@ sharing = true
 
 # Show a copyright license from creativecommons.org in the site footer?
 # Page specific copyright licenses are also possible by adding this option to a page's front matter.
-copyright_license = {enable = false, allow_derivatives = false, share_alike = true, allow_commercial = false, notice = "This work is licensed under {license}"}
+copyright_license = {enable = true, allow_derivatives = true, share_alike = true, allow_commercial = false, notice = "This work is licensed under {license}"}
 
 # Abstract length (characters) in the Compact and Portfolio Card list views. Also, see `summaryLength` in `config.toml`.
 abstract_length = 135
@@ -209,4 +209,4 @@ plugins_js  = []
 ## Icon Pack Extensions
 ############################
 [icon.pack]
-  ai = false  # Academicons icon pack https://jpswalsh.github.io/academicons/
+  ai = true  # Academicons icon pack https://jpswalsh.github.io/academicons/
