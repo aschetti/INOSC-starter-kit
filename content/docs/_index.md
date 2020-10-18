@@ -15,4 +15,4 @@ This Starter Kit provides you the rationale, design, and guidelines to start you
 
 Together, we make science open!
 
-![The four stages of developing an Open Science Community](./OSC-4-stages.png)
+![The four stages of developing an Open Science Community](OSC-4-stages.png)
