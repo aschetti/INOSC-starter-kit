@@ -51,6 +51,4 @@ hero_media = "image1.png"
 #   label = '<span class="js-github-release" data-repo="gcushen/hugo-academic">Show your product version here:<!-- V --></span>'
 +++
 
-For [Academic Website Builder](https://sourcethemes.com/academic/).
-
-Write something interesting about your project here.
+**[Write something interesting about INOSC here.]**
