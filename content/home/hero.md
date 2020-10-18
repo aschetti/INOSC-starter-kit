@@ -8,7 +8,7 @@ weight = 10  # Order that this section will appear.
 title = "Open Science Community Starter Kit"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
-hero_media = "book.svg"
+hero_media = "image1.png"
 
 [design.background]
   # Apply a background color, gradient, or image.
