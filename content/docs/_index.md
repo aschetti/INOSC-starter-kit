@@ -1,6 +1,7 @@
 ---
 title: 'Quick Guide'
 type: book  # Do not modify.
+toc: false # remove the right sidebar for table of contents
 ---
 
 Open Science improves the **quality**, **accessibility**, and **efficiency** of science, but is **not yet the norm** in research. While pioneering scholars are developing and embracing Open Science practices, the majority sticks to the status quo. To **move from pioneers to common practice**, we need to engage a critical proportion of the research community. This is where Open Science Communities come into play!
@@ -15,4 +16,7 @@ This Starter Kit provides you the rationale, design, and guidelines to start you
 
 Together, we make science open!
 
-![The four stages of developing an Open Science Community](OSC-4-stages.png)
+
+***
+![The four stages of developing an Open Science Community](./OSC-4-stages.png "The four stages of developing an Open Science Community")
+***

@@ -5,6 +5,7 @@ summary: ''
 weight: 1
 icon: book
 icon_pack: fas
+toc: false # remove the right sidebar for table of contents
 
 # Page metadata.
 title: 'Section I'
