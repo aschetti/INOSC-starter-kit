@@ -51,4 +51,4 @@ hero_media = "image1.png"
 #   label = '<span class="js-github-release" data-repo="gcushen/hugo-academic">Show your product version here:<!-- V --></span>'
 +++
 
-**[Write something interesting about INOSC here.]**
+Set up and foster a local Open Science Community
