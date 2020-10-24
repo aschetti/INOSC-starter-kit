@@ -163,18 +163,45 @@ The strength of a community depends on the contributions of its members. Members
 ***
 
 > [**ReproducibiliTea**](https://reproducibilitea.org/)
-> 
-> 
-> <img align="left" src="./ReproTea.png" height="25%" width="25%">
+> <img align="left" src="./ReproTea.png" height="30%" width="30%">
+>
 > ReproducibiliTea journal clubs help early-career researchers establish local Open Science journal clubs at their universities. Topics of discussions range from ways to improve science (e.g., by means of statistical reforms) to social implications of the Open Science movement.
 
+<p>
+<br>
+</p>
 
+> [**R.I.O.T. Science Club**](http://www.riotscience.co.uk/)
+> <img align="left" src="./RIOT.png" height="30%" width="30%">
+>
+> The R.I.O.T. Science Club organizes seminars where researchers can learn about Open Science reforms and practices. Speakers give talks, discuss papers, provide insights into software and tools, and recommend (new) statistical techniques, with the main goal to encourage Reproducible, Interpretable, Open, and Transparent Science.
 
+<p>
+<br>
+</p>
 
+> [**Data Champions**](https://doi.org/10.5281/zenodo.3383814)
+>
+> Data Champions are volunteers who promote good research data management (RDM) and support Findable, Accessible, Interoperable, and Re-usable (FAIR) research principles.
 
+<p>
+<br>
+</p>
 
+> [**The Carpentries**](https://carpentries.org/)
+> <img align="left" src="./Carpentries.png" height="30%" width="30%">
+>
+> The Carpentries teach basic computational and data science skills to researchers. The project comprises the [Software Carpentry](https://software-carpentry.org/), [Data Carpentry](https://datacarpentry.org/), and [Library Carpentry](https://librarycarpentry.org/) communities.
 
+<p>
+<br>
+<br>
+</p>
 
+> [**SIOS**](https://studentinitiativeopenscience.wordpress.com/)
+> <img align="left" src="./SIOS.png" height="30%" width="30%">
+>
+> The Student Initiative for Open Science (SIOS) spreads the message and practices of Open Science within the student community by organizing lectures, debates, and workshops. In addition, SIOS promotes the implementation of open practices in university programs, e.g., open access to all articles and preregistration of thesis projects.
 
 ***Box 3.** Examples of successful initiatives and formats to promote Open Science that can be rolled out locally in an Open Science Community.*
 
