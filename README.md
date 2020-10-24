@@ -2,7 +2,7 @@
 
 # INOSC Starter Kit
 
-Source code of the `gitbook` of the [INOSC Starter Kit](https://osf.io/7vez3/). Developed with [Hugo](https://themes.gohugo.io/) and [VSCodium](https://vscodium.com/). Published with [Wowchemy](https://wowchemy.com/), deployed with [Netlify](https://www.netlify.com/).
+Source code of the website of the [INOSC Starter Kit](https://osf.io/7vez3/). Developed with [Hugo](https://themes.gohugo.io/) and [VSCodium](https://vscodium.com/). Published with [Wowchemy](https://wowchemy.com/), deployed with [Netlify](https://www.netlify.com/).
 
 ***
 ***
