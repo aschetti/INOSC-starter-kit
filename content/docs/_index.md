@@ -1,5 +1,5 @@
 ---
-title: 'Quick Guide'
+title: 'Preface'
 type: book  # Do not modify.
 toc: false # remove the right sidebar for table of contents
 ---
@@ -18,5 +18,7 @@ Together, we make science open!
 
 
 ***
+
 ![The four stages of developing an Open Science Community](./OSC-4-stages.png "The four stages of developing an Open Science Community")
+
 ***
