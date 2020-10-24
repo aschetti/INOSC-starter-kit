@@ -128,7 +128,6 @@ A next level of engagement can be achieved in *study groups* or *mentorship prog
 
 For any of the initiatives described above to work, the community needs both an audience (e.g., newcomers) and colleagues who already have experience with one or more OS practices that are willing to share their knowledge. The advantages for newcomers to OS are pretty clear. But what’s in it for the latter group? Pioneers and early adopters, generally proud of their open workflow, often work in environments where their efforts might not be appreciated because it is not common practice. OSCs welcome, validate, and reward their expertise by showing that more people care about improving scholarly practices, thus creating a sense of belonging which can be a strong motivator to stay committed to OS. Moreover, OSCs provide opportunities for leadership roles in setting up local member initiatives, thereby increasing impact and visibility within the local academic environment. This also provides opportunities for members who already actively promote OS to get more traction for their initiatives.
 
-
 ***
 
 |              | Lightning talk | Workshop   | Study Groups |
@@ -154,11 +153,6 @@ OSC coordinators typically set up the meeting – using [Zoom](https://zoom.us/)
 #### Member Initiatives
 
 The strength of a community depends on the contributions of its members. Members can increase the magnitude and diversity of the activities organised within the community while simultaneously easing the organisational burden on the shoulders of Community Coordinators. *Member Initiatives* are typically tailored for a smaller subsection of the community, and focus on specific open science areas. While members are free to develop their own initiatives, it can be even more effective to promote existing formats that have proven successful in other institutions, for instance ReproducibiliTea journal clubs, R.I.O.T. Science Clubs, and Data Champions (see *Box 3*). These initiatives can find a place under the umbrella of the local OSC. Community Coordinators can promote and support these initiatives by featuring them on the website, newsletter, and social media, making use of the community network. Colleagues from institutions that already have such initiatives in place can be invited to share their experience or be interviewed at events or in newsletters, to motivate local members to kickstart local instances. Regardless of whether members devise their own initiatives or start from existing examples, these are powerful opportunities to gain organizational and leadership experience, which is increasingly relevant for career development in academia.
-
-
-
-
-
 
 ***
 
@@ -207,12 +201,99 @@ The strength of a community depends on the contributions of its members. Members
 
 ***
 
+## **Stage 3: Foster and Sustain**
 
+In this stage, you increase the diversity of your membership, increase interactions with stakeholders and make your community sustainable. This is also a good time to critically evaluate the effectiveness of your community and to identify opportunities for further development.
 
+### 3a. Diversity and inclusivity
 
+Take time to analyze the **diversity of your membership**. Are you happy with the proportion of newcomers and experienced members? Do you have members in all faculties? The key question here is: Who are you missing? To optimize the diversity of your membership, consider reaching out to new target audiences, such as students, colleagues at Universities of Applied Sciences, or members without a university affiliation, such as citizens, private companies, or members of civil societies.
+
+### 3b. Institutional stakeholders: policy, infrastructure, and support
+
+In our experience, institutional stakeholders – such as people in leadership positions responsible for policy, infrastructure, and support – are often eager to collaborate with OSCs (see *Table 3*). Identify those people in your institution and get your community to their attention. Make sure to articulate how we can mutually benefit from one another. We have a shared goal: smooth and effective implementation of OS practices. Communities can serve as platforms for stakeholders to get input from scholars. This input, e.g., on how scholars experience opportunities and obstacles regarding OS practices, is very valuable to them. By being open to this input, community members get the opportunity to influence policy, infrastructure, and support.   
+There is no easy recipe to expand the influence of your community and the opportunities will depend heavily on your local environment. This is all about networking and lobbying. In our experience, it is more effective (and pleasant!) to focus on people in leadership positions that are already positively inclined towards OS. If you are met with resistance, do not fight it. Explore alternative routes instead. One format that has worked well for us is to organise meetings where the people responsible for policy and infrastructure can interact with community members. Use the newsletter to inform community members of new policies and services, and provide channels for feedback[^4].   
+A partnership that has proved to be beneficial is with colleagues from the *university library*, who are pivotal for research support. Librarians are often very progressive when it comes to OS and many have been supporting it for years, in particular regarding Open Access and open data. However, our experience is that their knowledge and potential is not often adopted by scholars. One effective way to foster collaboration with librarians is to organise a back-to-back workshop with two speakers: one librarian and one scholar. In our experience, combining the expertise of a librarian with the practical experience of a researcher can be very insightful to both newcomers and expert OS practitioners.
+
+***
+
+| Stakeholder            | Give                                                         | Take                                         |
+| :--------------------: | -----------------------------------------------------------: | -------------------------------------------: |
+| Newcomers | Feedback on bottlenecks and boundary conditions | Learn Open Science skills, shape policy and infrastructure (influence) |
+| Experienced colleagues | Share experience | Being able to inspire others (influence), platform to start initiatives (leadership), consolidate Open Science skills (sense of belonging) |
+| Makers of policy and infrastructure | Being open to input (influence) | Well-tested ideas and experiences that help to re-shape or transform ways of working and institutional cultures |
+| Librarians and support staff | Open Science training | Reach an audience interested in Open Science |
+
+***Table 3**. The give and take of target audiences and stakeholders.*
+
+***
+
+### 3c. Interactions between academia and society
+
+For science to be truly open, it is important to achieve a relationship of mutual respect and constructive criticism between science and the public. The public is arguably the stakeholder scientists are most accountable to, and their inclusion can benefit science by for instance providing a broader debate or valuable lay perspectives. Views of citizens and scientists [often differ](https://www.pewresearch.org/science/2015/01/29/public-and-scientists-views-on-science-and-society/), yet science relies on public funding and aims to be a relied upon source of knowledge generation. Open science thus also means engaging the public in a meaningful way, by for instance making science more accessible, providing press-abstracts and summaries for the layperson, involving the public in decisions of what to study (e.g., the [*‘Nationale Wetenschapsagenda’*](https://vragen.wetenschapsagenda.nl/) in the Netherlands), and achieving a [common goal through Citizen Science](https://mfr.de-1.osf.io/render?url=https://osf.io/6qjyg/?direct%26mode=render%26action=download%26mode=render). As an OS community, including non-scientific public in the debate, for instance on how to make science available to all, can be a valuable form of feedback for researchers and teachers within the community.
+
+### 3d. Funding
+
+At this stage, you have a growing number of community members and a series of events in place. Now is the time to invest in the sustainability of the community, particularly maintaining and expanding capacity, which is closely connected to acquiring funding.   
+Communities are often started by PhD students: their energy and enthusiasm can propel the success of the community, but their temporary contracts leave the community vulnerable. It is recommended to either include colleagues with a permanent contract in the core organizational group or include new PhD students that are likely to be around for a longer timespan than the founders. Also, consider *expanding your core team*. For example, promote *Faculty Ambassadors* who focus on activities and engagement in their respective Faculties (for example, OSCU has Faculty Ambassadors for all seven faculties, working for 0.1 fte each).  You may also want to involve support staff that could support you with organisational tasks, e.g., from the University Library or Research Support Offices.   
+At this stage, it is also critical to *acquire funding*. Of course, it would make life much easier if you were able to acquire funding from the very beginning (and we wholeheartedly recommend you to investigate available options at your local institution). However, acquiring funding is often more effective if you already have a success story to show. It often requires extensive lobbying to convince colleagues who can allocate budget. In this regard, it helps if you can make a clear case for how your community makes institutional policy and projects more effective. The source of the message is also important, so make sure to include members at leadership positions in your requests. Your chances of acquiring funding will depend on the urgency of local and national OS policies and how well you are able to connect with them. Unfortunately, there is no one-size-fits-all solution or strategy, as these circumstances will differ from one University to another. In the [Slack workspace](https://osc-netherlands.slack.com/#/) of the Community Coordinators, we have a separate channel to discuss funding-related issues. See [here](https://docs.google.com/document/d/1RFxmQ0xbh8ZgQe0XiOGv2T7Xmj3TW5chRQq5X6hJq3w/edit) an example of a request for funding by Open Science Community Leiden. 
+
+### 3e. Community Building
+
+You’ve brought together a group of passionate people – you’re really hoping to sustain the energy, passion and dynamics of the community and connections. Perhaps you’re finding that as the community grows organically, more and more work is reliant on you, especially administrative, and it’s wearing you out. Perhaps you heard from some initial members that they’re finding their experience no longer rewarding, unless there’s room for them to grow or lead. Perhaps there are emerging disagreements and conflicts between some community members.
+
+It’s important to always ask *why* – what is the goal of the community, and why do people join/stay? These factors *change* constantly. 
+
+The goals of joining/being in a community can be:
+- *Co-creation*: To work towards something meaningful together/to contribute to meaningful initiatives
+- *Upskill*: to learn new skills/get more diverse experience
+- *Network*: To meet new people/maintain existing contacts
+- *Support*: Emotional support, soundboard ideas, troubleshooting
+
+The goals for your community members can be different, and not listed above! It’s important to find out what they are, to help you design an effective community programme. *E.g. the most important goal for most of your community members is to co-create with others–you then design co-working sessions/working groups for your members to join and create something together.*
+
+Mozilla Open Innovation and the Copenhagen Institute of Design distilled [6 major ways of building values together as a community](https://medium.com/mozilla-open-innovation/a-framework-of-open-practices-9a17fe1645a3). This is a helpful framework to start thinking about the different possibilities – but again, it goes back to figuring out which of these (or more) are most useful for *your community*.
+
+To find out what these goals are, you can:
+- Conduct 1:1 meetings with new/existing members – these will give you more in-depth insights that often don’t come through via other means, and will make members feel more valued/empowered to make decisions!
+- Surveys – less time consuming than 1:1, quick insight into these key questions
+- Co-design workshop – connect members in the processed, but requires more planning and effort into design to facilitate an effective workshop
+
+The opportunity to continue to learn and grow with participating in a community is an important incentive to keep community members engaged and active. One needs to consider *pathways*, from the first instance of engagement (hearing about the community through a friend, or joining a community seminar) to sustained participation in community activities, and potentially leadership. 
+
+The [mountain of engagement](https://docs.google.com/document/d/1mOxQYVIAnSFjwzx3sVXxZw2XdP18WxjP9nxcMXtNqIo/edit) is one of the best frameworks to begin mapping out these pathways, and ultimately, *an architecture for participation* – it helps you consider how members could move within the different levels of participation, and what would motivate them to move up and become more engaged. 
+
+Ultimately, a community is *people*, which means as members come and go and circumstances and priorities change for members, the programming should change. There’s no perfect programming, and the best strategy is one of *build-measure-learn-repeat*: actively listen, seek feedback and constructive criticism, reflect, adjust and act accordingly. 
+
+### 3f. Criteria for Success
+
+Here we provide a set of proxies that can help you assess how successful your community is. These proxies, however, only offer a partial view of the work within a community and should not substitute a careful qualitative assessment, e.g., by talking regularly with community members to understand their needs and provide relevant offers with respects to events and communication strategy. Understanding how proxies relate to behavioural change requires additional qualitative investigation to highlight which interactions are most effective. Nevertheless, when used with care, the following proxies can help assess successful community outreach.
+
+#### Proxy #1: number and characteristics of members
+
+The most obvious proxy for success is the number of members and its increase over time. Make sure to dive into the characteristics of your membership to see whether they adhere to your intentions and strategies. For instance, what is the ratio of newcomers to experienced colleagues in your community? How are your members distributed amongst different faculties? What is the representation across work positions, e.g., PhD candidates, (full) professors, librarians, and so on? While there is no objective target to reach, ask yourself what you consider upper and lower bounds for your community to be self-sustained and achieve its general aims (being a link between OS experts and novices).
+
+#### Proxy #2: number and type of community interactions
+
+The chance of inspiring engagement to OS practices is likely correlated with the number and type of interactions within your community. For example, how many people attend OSC events? Does attendance vary as a function of the type of event, e.g., more people follow workshops rather than talks? Activity within member initiatives is also very relevant in this regard, therefore it is important to be in constant communication with all the organizers.   
+It is also informative to consider analytics of website traffic and/or newsletter interactions, for example how many people have opened the newsletters and clicked on particular links.   
+An additional proxy is social media presence. Many OSCs have substantial numbers of followers and traction on Twitter. Activity on social media facilitates interactions among OSCs and between OSCs and other stakeholders all around the world. However, it is important to consider how much of that information actually ends up at your local target audience. Check the profiles of your followers and those of the people that like and retweet your tweets, to make sure you are not only ‘preaching to the choir’.   
+Finally, it would be informative to track how many people reached out to members via the website for questions regarding OS practices. We do not yet have procedures in place to systematically investigate the number of professional collaborations born within the community... if you have some ideas let us know!
+
+#### Proxy #3: number and type of interactions with other stakeholders
+
+Keep track of the formal and informal interactions that you have with local managers, policy makers, and providers of infrastructure and services. Wherever possible, make your role and input explicit and keep track of how much of your input actually gets implemented. This also holds for interactions with stakeholders outside your university, for example at the national and international level. In addition, you can track the number of collaborations you have with the university library and how beneficial they were in motivating scholars to implement OS practices in their workflow.
+
+Besides these proxies, you may also conduct surveys and interviews at regular intervals, to monitor behaviors regarding the adoption of OS practices and evaluate to what extent OSC membership facilitates the transition to openness. Surveys allow you to have a general overview of the type and scope of OS practices within your organization and provide a better picture of the differences among disciplines. However, surveys can be time-consuming, require specialized knowledge, and causal inferences are difficult to draw (e.g., responses might be influenced by social desirability, or other organisational initiatives may have played a role), all caveats that should be taken into account in the planning stage.   
+So, the take-home message here is: it is difficult to assess how successful your community is. Nevertheless, it is important to keep track of how you are doing, in particular to determine opportunities to steer and develop your communities. The proxies provided in this section, when used with care, can be useful in this regard.
+
+## **Stage 4: Dream and Scheme**
+
+Now that your community is up and running, what happens next? That’s up to you! What we provided in this Starter Kit is our experience with OSCs so far. We hope that, some day, OS will become such a common practice that OSCs will no longer need to focus on OS alone. Instead, OSCs can evolve and become platforms aimed at exploring means to innovate science, or as networks to initiate (interdisciplinary) collaborations. Until that day, we will continue to attract newcomers to OS, assist them in opening up their workflows, and interact with policy, infrastructure, and society to shape the transition to OS. This transition is an ongoing process, with local national and international stakeholders, each moving at their own pace. And it is bound to be a bumpy ride. We need to be agile, willing and able to adjust our ways to meet unforeseen challenges. At times it will be smooth sailing, other times we’ll be in for stormy weather. But together, our fleet of OSCs can navigate hell or high water. And one day, we will look back and see that science has become more open, more effective, and more fun, and that we have paved the way for generations to come.
 
 
 
 [^1]: Note that OSCG chose to use ‘Open Scholarship’ instead of ‘Open Science’ in their name to appeal more to colleagues who do not identify with the term ‘Science’. In the Netherlands, Community Leaders have stuck to ‘Open Science’, as this term is more mainstream. As mentioned earlier, the term ‘science’ is used here in its broadest sense.
 [^2]: The OSC logo bears similarity with the [Ubuntu logo](https://design.ubuntu.com/brand/ubuntu-logo/). We have agreed with Canonical Ltd. to set up guidelines to prevent any confusion regarding our respective logo, for example that the OSCs will not use the same color scheme as Ubuntu.
 [^3]: These numbers are based on the newsletter of the Open Science Community Utrecht.
+[^4]: There are, of course, many policies and infrastructures that are not determined locally, but rather at national or international level. It is worthwhile to invest time in interacting with relevant stakeholders at (inter)national levels as well.
