@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
-linktitle: 'Section I'
-summary: 'An introduction to Open Science Communities.'
+linktitle: 'Section I: An introduction to Open Science Communities'
+summary: ''
 weight: 1
 icon: book
 icon_pack: fas

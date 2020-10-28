@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
-linktitle: 'Section II'
-summary: 'Start and Foster your Open Science Community.'
+linktitle: 'Section II: Start and Foster your Open Science Community'
+summary: ''
 weight: 1
 icon: book
 icon_pack: fas
