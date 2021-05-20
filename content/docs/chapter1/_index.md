@@ -124,7 +124,7 @@ In less than two years, eleven OSCs sprouted in the Netherlands and two outside 
 ***
 
 ![INOSC](./fig4.png "Overview of the current Open Science Communities")
-***Figure 4**. Overview of the current Open Science Communities. As of early 2020, the International Network of Open Science Communities (INOSC)  comprises Open Science Communities at 13 university cities, 11 in the Netherlands, 1 in Ireland and 1 in Sweden. Image by [Anita Eerland](http://www.anitaeerland.com/about/), licensed under [CC BY-ND 3.0](https://creativecommons.org/licenses/by-nd/3.0/nl/deed.en).*
+***Figure 4**. Overview of the current Open Science Communities. As of May 2021, the International Network of Open Science Communities (INOSC) comprises Open Science Communities at 11 locations in the Netherlands, 1 in Ireland, 1 in Sweden, and 1 in Saudi Arabia. Image by [Anita Eerland](http://www.anitaeerland.com/about/), licensed under [CC BY-ND 3.0](https://creativecommons.org/licenses/by-nd/3.0/nl/deed.en).*
 
 ***
 
