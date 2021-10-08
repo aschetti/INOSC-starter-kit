@@ -11,7 +11,7 @@
 [fr]
   languageCode = "fr"
   contentDir = "content/fr"
-  title = "Kit de démarrage Communité Science Ouverte"
+  title = "Kit de démarrage Communauté science ouverte"
 #  [fr.params]
 #    description = "Site description in French..."
 #  [[fr.menu.main]]
