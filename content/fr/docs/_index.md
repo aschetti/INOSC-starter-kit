@@ -1,24 +1,23 @@
 ---
-title: 'Preface'
+title: 'Pr&eacute;ambule'
 type: book  # Do not modify.
 toc: false # remove the right sidebar for table of contents
 ---
 
-Open Science improves the **quality**, **accessibility**, and **efficiency** of science, but is **not yet the norm** in research. While pioneering scholars are developing and embracing Open Science practices, the majority sticks to the status quo. To **move from pioneers to common practice**, we need to engage a critical proportion of the research community. This is where Open Science Communities come into play!
+La science ouverte améliore la **qualité**, l'**accessibilité** et l'**efficacité** de la science, mais n'est **pas encore la norme** dans la recherche. Alors que des chercheurs pionniers développent et adoptent des pratiques de science ouverte, la majorité s'en tient au *statu quo*. Pour **passer des pionniers à la pratique courante**, nous devons impliquer une proportion critique de la communauté des chercheurs. C'est là que les Communautés science ouverte entrent en jeu !
 
-Open Science Communities provide a place where **newcomers and experienced peers** interact, **inspire each other to adopt** Open Science practices and values, identify **opportunities** and **pitfalls**, and **provide feedback on policies, infrastructure, and support services**. By the same token, Open Science Communities are places where researchers and societal stakeholders can meet, inspire and co-create. 
+Les Communautés science ouverte forment un espace où **les nouveaux arrivants et les pairs expérimentés** interagissent, **s'inspirent mutuellement pour adopter** les pratiques et les valeurs de la science ouverte, identifient **les opportunités** et **les pièges**, et **font un retour sur les feuilles de route, l'infrastructure et les services de soutien**. De même, les Communautés science ouverte forment un espace où les chercheurs et les parties prenantes de la société peuvent se rencontrer, s'inspirer et co-créer.
 
-Both the size and number of Open Science Communities continues to grow. By creating momentum and critical mass, Open Science Communities usher in a cultural change towards Open Science. 
+La taille et le nombre de Communautés science ouverte ne cessent de croître. En créant un élan et en atteignant une masse critique, les Communautés science ouverte sont à l'origine d'un changement culturel en faveur de la science ouverte.
 
-You can be part of this! 
+Vous pouvez en être !
 
-This Starter Kit provides you the rationale, design, and guidelines to start your own local Open Science Community. So jump right in and connect with us. 
+Ce kit de démarrage vous fournit les arguments, le modèle et les directives pour lancer votre propre Communauté science ouverte locale. Alors n'hésitez pas à vous lancer et vous mettre en relation avec nous.
 
-Together, we make science open!
-
+Ensemble, nous ouvrons la science !
 
 ***
 
-![The four stages of developing an Open Science Community](./OSC-4-stages.png "The four stages of developing an Open Science Community")
+![Les quatre étapes du développement d'une Communauté science ouverte](./OSC-4-stages.png "Les quatre étapes du développement d'une Communauté science ouverte")
 
 ***
