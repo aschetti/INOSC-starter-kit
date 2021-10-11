@@ -1,14 +1,14 @@
 ---
 # Title, summary, and page position.
-linktitle: '1e Partie : Introduction aux Communautés science ouverte'
+linktitle: 'Partie I : Introduction aux Communautés science ouverte'
 summary: ''
 weight: 1
 icon: book
 icon_pack: fas
 
 # Page metadata.
-title: '1e Partie'
-date: "2020-10-18"
+title: 'Partie I'
+date: "2021-10-11"
 type: book  # Do not modify.
 ---
 
@@ -34,113 +34,114 @@ Au sommet de cette pyramide se trouve la **politique**. Pour un changement cultu
 
 ***
 
-Any cultural change needs a critical mass to challenge and change the *status quo*, and the input of newcomers is essential to refine the necessary policy and infrastructure to reach a wide adoption of OS. The main challenge in the transition to open science is therefore a **social challenge**: how to engage the necessary critical mass of the scholarly community? While many experience the transition to openness as liberating and more in line with intrinsic motivations, others are more hesitant to change for several reasons. They might be comfortable in their current practices, do not see the added benefits, do not consider it worth the investment, or become overwhelmed and frustrated by the sheer overload of new information and the lack of standardized practices and institutional recognition. Some might even feel that OS is just a phase, and will want to wait until it blows over. The reality is, it won’t. The transition is real and all scholars will have to deal with it. Now is the time that we build and shape this transition and, for this, we need the input from the scholarly community by and large.
+Tout changement culturel a besoin d'une masse critique pour remettre en question et modifier le *statu quo*, et l'apport des nouveaux venus est essentiel pour affiner la politique et l'infrastructure nécessaires pour parvenir à une adoption large de la SO. Le principal défi de la transition vers la science ouverte est donc un **défi social** : comment impliquer une masse critique de la communauté scientifique ? Si beaucoup vivent la transition vers l'ouverture comme libératrice et plus conforme à leurs motivations intrinsèques, d'autres sont plus réticents à changer pour plusieurs raisons. Il se peut qu'ils soient à l'aise dans leurs pratiques actuelles, qu'ils n'en voient pas les avantages, qu'ils considèrent que l'investissement n'en vaut pas la peine, ou qu'ils soient dépassés et frustrés par la surcharge d'information et l'absence de norme et de reconnaissance institutionnelle. Certains pourraient même penser que la SO n'est qu'une phase, et voudront attendre que cela se calme. Sauf que ça ne se calmera pas. La transition est bel et bien là et tous les chercheurs devront y faire face. Le moment est venu de construire et de façonner cette transition et, pour cela, nous avons besoin de la contribution de la communauté scientifique dans son ensemble.
 
-This is where Open Science Communities (OSCs) come into play. They are bottom-up learning communities designed to appeal to a large proportion of researchers. We do this by making OS more **visible**, more **accessible**, and to explore the **obstacles and requirements** for newcomers to make their workflows more open. For a more elaborate introduction of the role of OSC in the transition to Open Science, please read our [OSC Whitepaper](https://doi.org/10.31222/osf.io/7gct9/).
+C'est là que les Communautés science ouverte (en anglais *Open Science Communities* ou OSC) entrent en jeu. Il s'agit de communautés d'apprentissage par la base conçues pour une grande partie des chercheurs. Pour ce faire, nous rendons les OSC plus **visibles**, plus **accessibles**, et nous explorons les **obstacles et les exigences** qui se présentent aux nouveaux venus qui veulent ouvrir leurs pratiques. Pour une présentation plus détaillée du rôle des OSC dans la transition vers la science ouverte, veuillez lire notre [livre blanc](https://doi.org/10.31222/osf.io/7gct9/).
 
-To instantiate a global change towards OS, we need many local OSCs, all around the globe. It is with these objectives in mind that we created this Starter Kit, to inspire and enable you to create a local OSC. The key to accelerate the transition towards OS may, literally, be in your hands.
+Pour mettre en place un changement mondial vers la SO, nous avons besoin de nombreuses OSC locales, à travers le monde. C'est avec ces objectifs en tête que nous avons créé ce kit de démarrage, pour vous inspirer et vous permettre de créer une OSC locale. La clé pour accélérer la transition vers la SO peut, littéralement, être entre vos mains.
 
-## I.2 Our format for Open Science Communities
+## I.2 Notre format pour les Communautés science ouverte
 
-The format of OSCs that we introduce in this Starter Kit is a **bottom-up** learning community comprising members of various scientific disciplines and career stages. The main target audience of OSCs are academics, but others, e.g. from industry, ministries or citizens, are also welcome to join.
+Le format d'OSC que nous présentons dans ce kit de démarrage est une communauté d'apprentissage **ascendante** (*bottom-up*) composée de membres de différentes disciplines scientifiques à différents stades de leur carrière. Les OSC s'adressent principalement aux universitaires mais toute personne, qu'elle soit issue du secteur privé, des pouvoirs publics ou de la société, est également la bienvenue.
 
-Our vision and mission are:
+Notre vision et notre mission sont :
 
-> **Vision and Mission**
+> **Vision et mission**
 >
-> Open Science improves the quality, accessibility, and efficiency of science, but is **not yet the norm** in research. While pioneering scholars are developing and embracing Open Science practices, the majority sticks to the *status quo*. To *move from pioneers to common practice*, we need to engage a critical proportion of the research community.
+> La science ouverte améliore la qualité, l'accessibilité et l'efficacité de la science, mais n'est **pas encore la norme** dans la recherche. Alors que des chercheurs pionniers développent et adoptent les pratiques de la science ouverte, la majorité s'en tient au *statu quo*. Pour *passer des pionniers à la pratique courante*, nous devons engager une part critique de la communauté académique.
 >
-> This is where Open Science Communities come into play.
+> C'est ici que les Communautés science ouverte entrent en jeu.
 >
-> Open Science Communities provide a place where **newcomers and experienced peers** interact, **inspire each other** to embed Open Science practices and values in their workflows, and provide feedback on policies, infrastructure, and support services.
+> Les Communautés science ouverte offrent un lieu où **les nouveaux venus et les pairs expérimentés** interagissent, **s'inspirent mutuellement** pour intégrer les pratiques et les valeurs de la science ouverte dans leurs pratiques, et font un retour sur les feuilles de route, l'infrastructure et les services de soutien.
 >
-> Together, we make Open Science the norm!  
+> Ensemble, nous faisons de la science ouverte une norme !  
 
-The above mission can be broken down into practical aims (*Figure 3*):
+La mission ci-dessus peut être décomposée en objectifs pratiques (*Figure 3*) :
 
-> **Aims**
-> - Invite newcomers to Open Science
-> - Increase engagement in Open Science practices
-> - Serve as a breeding ground for Open Science initiatives
-> - Interact with policy, infrastructure and support services
-> - Foster interactions between academia and society
+> **Objectifs**
+> - Accueillir les nouveaux venus à la science ouverte
+> - Augmenter l'appropriation des pratiques de la science ouverte
+> - Servir de terreau aux initiatives de science ouverte
+> - Interagir avec les politiques, les infrastructures et les services de soutien
+> - Favoriser les interactions entre le monde académique et la société
 
 ***
 
-![Main purposes of OSC](./fig3.png "Main purposes of OSC")
-***Figure 3**. Infographic highlighting the main purposes of an Open Science Community (see legend).*
+![Principales raisons d'être des OSC](./fig3.png "Principales raisons d'être des OSC")
+***Figure 3**. Schéma présentant les principales raisons d'être d'une Communauté science ouverte (en légende).*
 
 ***
 
-*Aim #1 - Invite newcomers to Open Science*   
-The core aim of an OSC is to welcome newcomers to OS and to provide a platform where they can learn from their peers and identify ways to overcome bottlenecks when transitioning to (more) open workflows. An OSC is a learning community: you do not need to have any experience with OS to join the community, or commit to such practices upon joining. What unites community members is their interest in OS, publicly displayed on the website of their OSC.   
-To interact with newcomers, it is crucial for them to know of the existence of your community. You need to be visible. Also, newcomers need to be attracted to the community. They need to feel at home. It is key here to strike the right tone. We provide practical guidelines in these regards in [*Section II*]({{< ref "../chapter2/_index.md" >}}).
+*Objectif n°&nbsp;1 - Accueillir les nouveaux venus à la science ouverte*  
+L'objectif principal d'une OSC est d'accueillir les nouveaux venus dans le domaine de la SO et de proposer un espace où ils peuvent apprendre de leurs pairs et identifier les moyens de surmonter les difficultés lors de la transition vers des pratiques (plus) ouvertes. Une OSC est une communauté d'apprentissage : il n'est pas nécessaire d'avoir une quelconque expérience de la SO pour rejoindre la communauté, ni de s'engager formellement à adopter de telles pratiques. Ce qui unit les membres de la communauté, c'est leur intérêt pour la SO, affiché publiquement sur le site web de leur OSC.   
+Pour interagir avec les nouveaux venus, il est crucial qu'ils connaissent l'existence de votre communauté. Vous devez être visible. De même, les nouveaux venus doivent être attirés par la communauté. Ils doivent se sentir chez eux. Il est essentiel de trouver le bon ton. Nous fournissons des consignes pratiques à cet égard dans la [*Partie II*]({{< ref "../chapter2/_index.md" >}}).
 
-*Aim #2 -  Increase engagement with Open Science practices*   
-Increasing engagement with OS practices is central to our mission. This includes inspiring newcomers to take their first steps, but also consolidating current OS practices amongst colleagues that already opened (parts of) their workflow. Our main strategy is to facilitate knowledge exchange amongst peers. In [*Section II*]({{< ref "../chapter2/_index.md" >}}), we provide several practical examples of formats that promote knowledge exchange amongst peers.
+*Objectif n°&nbsp;2 - Augmenter l'appropriation des pratiques de la science ouverte*   
+Augmenter l'appropriation des pratiques de la SO est la clé notre mission. Il s'agit  d'inciter les nouveaux venus à faire leurs premiers pas, mais aussi de consolider leurs pratiques actuelles de la SO parmi les collègues qui ont déjà changé (une partie de) leur méthode de travail. Notre principale stratégie consiste à faciliter l'échange de connaissances entre pairs. Dans la [*Partie II*]({{< ref "../chapter2/_index.md" >}}), nous fournissons plusieurs exemples concrets de formats qui favorisent l'échange de connaissances entre pairs.
 
-*Aim #3: Serve as a breeding ground for Open Science initiatives*   
-The success of a community depends on the contributions of its members. It is therefore important to **enable members to start their own initiatives** within the community. These member initiatives can be facilitated by providing guidelines, announcing them on the website, newsletter, and social media, and, if possible, allocating budget. Instead of developing new initiatives, members can also adopt existing formats that were proven successful in other institutions (e.g., other OSCs). Practical guidelines and examples of existing successful formats are detailed in [*Section II*]({{< ref "../chapter2/_index.md" >}}).
+*Objectif n°&nbsp;3 - Servir de terreau aux initiatives de science ouverte*
+Le succès d'une communauté dépend des contributions de ses membres. Il est donc important de **permettre aux membres de lancer leurs propres initiatives** au sein de la communauté. Ces initiatives peuvent être facilitées en fournissant des lignes directrices, en les annonçant sur le site web, la *newsletter* et les réseaux sociaux et, si possible, en leur allouant un budget. Au lieu de proposer de nouvelles initiatives, les membres peuvent également transposer des formats qui ont fait leurs preuves dans d'autres OSC notamment. Des conseils pratiques et des exemples d'initiatives ayant fait leurs preuves sont détaillés dans la [*Partie II*]({{< ref "../chapitre2/_index.md" >}}).
 
-*Aim #4: Interact with policy, infrastructure and support services*   
-One of the key features of an OSC is that it operates **independently** from institutional policy. That means that the community is a self-steering organisation that does not receive instructions, targets, or tasks from other parties. However, OSCs should not operate in isolation. As discussed in [*Section I.1*](#I.1-Le-rôle-des-communautés-dans-la-transition-vers-la-science-ouverte), OSCs are well placed between policy and infrastructure. Policy describes what is required, desired, and incentivised; infrastructure determines what is possible; but the community determines how things are done in practice. To facilitate a smooth transition to OS, all stakeholders need to collaborate. Therefore, community coordinator(s) strive to increase connections with colleagues at leadership positions, in particular those involved in **institutional policies, infrastructure, and support**. Practical examples of collaborations with such stakeholders are discussed in [*Section II*]({{< ref "../chapter2/_index.md" >}}).
+*Objectif n°&nbsp;4 - Interagir avec les politiques, les infrastructures et les services de soutien*   
+L'une des principales caractéristiques d'une OSC est qu'elle fonctionne **indépendamment** de la politique institutionnelle. Cela signifie que la communauté est une organisation autonome qui ne reçoit pas d'instructions, d'objectifs ou de tâches d'autres parties. Cependant, les OSC ne doivent pas fonctionner de manière isolée. Comme indiqué dans la [*Partie I.1*](#I.1-Le-rôle-des-communautés-dans-la-transition-vers-la-science-ouverte), les OSC ont leur place entre la politique et l'infrastructure. La politique prescrit ce qui est requis, souhaité et encouragé ; l'infrastructure détermine ce qui est possible ; mais la communauté décide comment les choses se font en pratique. Pour faciliter une transition en douceur vers la SO, toutes les parties prenantes doivent collaborer. C'est pourquoi le(s) coordinateur(s) de la OSC s'efforce(nt) de renforcer les liens avec les collègues occupant des postes de direction, en particulier ceux impliqués dans les **politiques institutionnelles, les infrastructures et les services de soutien**. Des exemples pratiques de collaboration avec ces acteurs sont abordés dans la [*Partie II*]({{< ref "../chapter2/_index.md" >}}).
 
-*Aim #5: Foster interactions between academia and society*   
-OS means not only open to colleagues in academia, but also open to society. We therefore foster interactions between academics and societal stakeholders, such as civil societies, civilians, patients, politicians, and industry. A first step is to make our work accessible to these stakeholders. Where applicable, we also encourage engaging with these stakeholders in all stages of the research cycle.
+*Objectif n°&nbsp;5 - Favoriser les interactions entre le monde académique et la société*
+La SO est non seulement ouverte aux collègues du monde académique, mais aussi ouverte à la société. Nous encourageons donc les interactions entre les chercheurs et les acteurs de la société : société civile organisée, citoyens, patients, hommes et femmes politiques, entreprises. Une première étape consiste à rendre notre travail accessible à ces acteurs. Quand c'est possible, nous encourageons également à les impliquer à toutes les étapes du cycle de la recherche.
 
 ***
 
-| Aims       | Target audience     | Strategies & formats    |
+| Objectifs       | Public cible     | Stratégies et formats   |
 | :------------- | :----------: | -----------: |
-| Reach out and include newcomers to Open Science | Newcomers | Website, newsletter, flyers, <br> merchandise, social media, tone |
-| Increase engagement with Open Science practices | Newcomers & experienced colleagues | Lightning talks, workshops, <br> symposia, mentorship programs, forum |
-| Serve as a breeding ground for Open Science initiatives | Newcomers & experienced colleagues | Member initiatives, collection of established formats |
-| Provide input to policy, infrastructure, and support | Rector, board, deans, librarians, IT specialists | Regular consultancy meetings with stakeholders |
-| Foster interactions between scholars and society | Academics, societal stakeholders, and citizens | Symposia, information meetings, science festivals, online communication |
+| Accueillir les nouveaux venus à la science ouverte | Nouveaux venus | Site web, newsletter, brochures, <br> *goodies*, réseaux sociaux, ton |
+| Augmenter l'appropriation des pratiques de la science ouverte | Nouveaux venus et collègues expérimentés | Présentations flash, séminaires, <br> colloques, programmes de mentorat, forum |
+| Servir de terreau aux initiatives de science ouverte | Nouveaux venus et collègues expérimentés | Initiatives des membres, initiatives ayant fait leurs preuves |
+| Interagir avec les politiques, les infrastructures et les services de soutien | Présidents d'université, organes de direction, <br> doyens, bibliothécaires, informaticiens | Réunions de concertation régulières avec les parties prenantes |
+| Favoriser les interactions entre le monde académique et la société | Chercheurs, société civile | Colloques, réunions d'information, festivals de science, communication en ligne |
 
-***Table 1**. Aims and audiences. Strategies and formats are further detailed in [Section II]({{< ref "../chapter2/_index.md" >}}).*
-
-***
-
-## I.3 History and Achievements of our Open Science Communities
-
-To get a taste of how an OSC can evolve, let’s have a look at how the OSCs in the Netherlands have advanced. The first OSC was the one in Utrecht ([OSCU](https://openscience-utrecht.com/)), started in 2018 at Utrecht University by two researchers with a passion for OS. They started out by making the prevalence of OS practices at their university more visible, by asking colleagues that were engaged in OS to join the community and listing their OS expertise on the community website. In addition, they recruited members that were interested in OS, but did not have prior experience with it. These members could then contact their more experienced peers to learn more about certain OS practices. Moreover, OSCU members received a monthly newsletter and the founders started to showcase the community around campus and on social media. Over time, the number of members increased and OSCU started organizing a series of workshops whose topics were based on a survey amongst its members. In addition, the founders created a [step-by-step tutorial](https://openscience-utrecht.com/community-blueprint/) describing how they started OSCU, to help colleagues at other universities start a similar initiative at their university. Within a year, colleagues from several Dutch universities (*Figure 3*) started parallel OSCs, operating under a similar acronym and logo and sharing a set of Guiding Principles and a Code of Conduct.[^2]   
-After a year, OSCU secured a budget from Utrecht University to further develop and sustain its activities, which led to the appointment of Faculty Ambassadors to promote the community in their respective faculties via OSC-NL (OSC Netherlands) meetings. After the first OSC-NL meeting, a plethora of OS workshops and events were organized far beyond Utrecht. For example, in the first year after attending the first OSC-NL, the Open Science Community Groningen (OSCG) held a petition in which 244 staff members of the University of Groningen indicated they would be willing to actively support the OSCG. After their official kick-off, the OSCG organized six lectures and workshops (e.g., on data visualization, registered reports, and preregistration for qualitative studies), launched a [website](https://openscience-groningen.nl/), a [Twitter account](https://twitter.com/OSCGroningen) (420 followers and counting), and a [YouTube channel](https://www.youtube.com/channel/UCNqQuXVcwnnof_7QEIaabdQ), and started to send out a bi-monthly OSCG newsletter (227 subscribers). Most recently, in collaboration with the University Library, they set up an annual [Open Research Award](https://openscience-groningen.nl/call-for-submissions-open-research-awards/) for university staff and students.   
-In less than two years, eleven OSCs sprouted in the Netherlands and two outside of the Netherlands (*Figure 4*), who all organized different OS activities and sought where they could contribute the most within that specific university (see *Box 1* for an overview of achievements). While this organic approach was fast, fun, and effective in the short run, it lacked a clear overarching goal or strategy. Decisions were typically made *ad-hoc* (should we organise another workshop? Or start a blog? Or... Or... ) and it was difficult to assess how successful our communities were in practice. Therefore, we decided to take a step back and reflect on our goals, strategies, and tools, which we now articulate in this Starter Kit.[^3]
-
-
-> ***Box 1.** Achievements of OSCs since 2018.*
-> - OSCs at eleven[^4] Dutch Universities, totalling more than 700 members (and growing!)
-> - Two OSCs outside of the Netherlands, in Sweden and Ireland
-> - Many OS workshops and events, with up to 75 attendees
-> - Several OS blogs written on various Open Science related topics (e.g., [10 Open Science Myths](https://openscience-groningen.nl/10-open-science-myths/))
-> - OSCG launched annual [Open Research Award](https://openscience-groningen.nl/call-for-submissions-open-research-awards/)
-> - Frequent requests to provide OS lectures and workshops at national and international events
-> - Contributed to large EU and USA funding proposals
-> - Frequent requests to advise local policy makers
-> - Frequent request to promote materials (e.g., for University Libraries, or the national ORCID project)
-> - Received recognition locally from [Rectors](https://www.uu.nl/sites/default/files/uu-oaj-2019-2020-henk-kummeling.pdf) and Deans and internationally from the [Center for Open Science](https://www.cos.io/blog/how-build-open-science-network-your-community) and the [Society for the Improvement of Psychological Science](https://improvingpsych.org/mission/awards/)
+***Table 1**. Objectifs et publics. Les stratégies et formats sont détaillées dans la [Partie II]({{< ref "../chapter2/_index.md" >}}).*
 
 ***
 
-![INOSC](./fig4.png "Overview of the current Open Science Communities")
-***Figure 4**. Overview of the current Open Science Communities. As of May 2021, the International Network of Open Science Communities (INOSC) comprises Open Science Communities at 11 locations in the Netherlands, 1 in Ireland, 1 in Sweden, and 1 in Saudi Arabia. Image by [Anita Eerland](http://www.anitaeerland.com/about/), licensed under [CC BY-ND 3.0](https://creativecommons.org/licenses/by-nd/3.0/nl/deed.en).*
+## I.3 Histoire et réussites de nos Communautés science ouverte
+
+Pour un aperçu de la façon dont une OSC peut grandir, regardons comment les OSC des Pays-Bas ont progressé. La première OSC a été celle d'Utrecht ([OSCU](https://openscience-utrecht.com/)), lancée en 2018 à l'Université d'Utrecht par deux chercheurs passionnés par la SO. Ils ont commencé par rendre plus visibles les pratiques de SO dans leur université, en demandant à des collègues impliqués dans la SO de rejoindre la Communauté et en listant leurs expertises SO sur le site web. En outre, ils ont recruté des membres qui étaient intéressés par la SO, mais qui n'avaient pas d'expérience dans ce domaine. Ces membres pouvaient alors contacter leurs pairs plus expérimentés pour en savoir plus sur certaines pratiques. En outre, les membres de l'OSCU ont reçu un bulletin d'information mensuel et les fondateurs ont commencé à mettre en valeur la Communauté sur le campus et sur les médias sociaux. Au fil du temps, le nombre de membres a augmenté et l'OSCU a commencé à organiser une série d'ateliers sur des thèmes choisis par une enquête auprès de ses membres. En outre, les fondateurs ont créé un [tutoriel étape par étape](https://openscience-utrecht.com/community-blueprint/) décrivant comment ils ont lancé l'OSCU, afin d'aider les collègues d'autres universités à lancer une initiative similaire dans leur université. En un an, des collègues de plusieurs universités néerlandaises (*Figure 3*) ont lancé des OSC parallèles, fonctionnant sous un acronyme et un logo similaires et partageant un ensemble de Principes directeurs et un Code de conduite[^2].
+
+Au bout d'un an, l'OSCU a obtenu un financement de l'Université d'Utrecht pour développer et soutenir ses activités, ce qui a conduit à la désignation d'ambassadeurs chargés de promouvoir la communauté dans leurs facultés respectives via les réunions de l'OSC-NL (OSC Pays-Bas). Après la première réunion OSC-NL, une pléthore d'ateliers et d'événements sur la SO ont été organisés bien au-delà d'Utrecht. Par exemple, au cours de la première année qui a suivi la participation à la première OSC-NL, la Communauté science ouverte de Groningen (OSCG) a lancé une pétition dans laquelle 244 membres du personnel de l'Université de Groningen ont indiqué être prêts à soutenir activement l'OSCG. Après son lancement officiel, l'OSCG a organisé six conférences et ateliers (par exemple sur la visualisation des données, le pré-enregistrement (*registered reports*) etc.), a lancé un [site Web](https://openscience-groningen.nl/), un [compte Twitter](https://twitter.com/OSCGroningen) et une [chaîne YouTube](https://www.youtube.com/channel/UCNqQuXVcwnnof_7QEIaabdQ), et a commencé à envoyer une lettre d'information bimestrielle à l'OSCG (227 abonnés). Plus récemment, en collaboration avec le service de documentation, ils ont mis en place un [Prix de la science ouverte](https://openscience-groningen.nl/call-for-submissions-open-research-awards/) annuel pour le personnel et les étudiants de l'université.   
+
+En moins de deux ans, 11 Communautés science ouverte ont vu le jour aux Pays-Bas et deux en dehors des Pays-Bas (*Figure 4*), qui ont toutes organisé différentes activités et cherché où ils pouvaient contribuer le plus à faire avancer la SO dans leur université (voir *Encadré 1* pour un aperçu des réalisations). Si cette approche organique était rapide, amusante et efficace à court terme, elle manquait d'un objectif ou d'une stratégie globale claire. Les décisions étaient généralement prises de manière *ad hoc* (devrions-nous organiser un autre atelier ? ou lancer un blog ? ou… ou…) et il était difficile d'évaluer le succès de nos Communautés sur le terrain. Nous avons donc décidé de prendre du recul et de réfléchir à nos objectifs, stratégies et outils, que nous présentons maintenant dans ce kit de démarrage[^3].
+
+> ***Encadré 1.** réussites des Communautés science ouverte depuis 2018.*
+> - OSC dans onze[^4] universités néerlandaises, totalisant plus de 700 membres (et ce n'est pas fini !)
+> - deux OSC en dehors des Pays-Bas, en Suède et en Irlande
+> - nombreux séminaires et événements de science ouverte, jusqu'à 75 participants
+> - plusieurs blogs tenus sur divers sujets liés à la science ouverte (par exemple, ce billet ["10 mythes de la science ouverte"](https://openscience-groningen.nl/10-open-science-myths/)).
+> - [Prix de la science ouverte](https://openscience-groningen.nl/call-for-submissions-open-research-awards/) lancé par l'OSCG
+> - sollicitations fréquentes pour animer des conférences et des ateliers sur la science ouverte lors d'événements nationaux et internationaux
+> - contribution à d'importantes demandes de financement en Europe et aux États-Unis
+> - sollicitations fréquentes pour conseiller les décideurs locaux
+> - sollicitations fréquentes pour promouvoir des ressources (bibliothèques universitaires, projet national ORCID)
+> - reconnaissance au niveau local par les [présidents d'université](https://www.uu.nl/sites/default/files/uu-oaj-2019-2020-henk-kummeling.pdf) et les doyens et, au niveau international, par le [Center for Open Science](https://www.cos.io/blog/how-build-open-science-network-your-community) et la [Society for the Improvement of Psychological Science](https://improvingpsych.org/mission/awards/).
 
 ***
 
-## I.4 Call to action
-
-As local community coordinators, we are very happy and proud of what we have achieved so far, but we want more[^5]! That is why we encourage colleagues around the globe to start local OSCs at their universities or research centres, to create momentum for a global culture change in academia towards OS (*Figure 5*). So, we call upon you to start a local OSC. Please connect with us so that you can start from a worked-out example and make use of our active network of Community Coordinators to exchange experiences and ideas. In addition, as the network expands, we would be in a better position to collectively apply for (inter)national funding and provide input to (inter)national policies. Becoming part of the growing network of OSCs means that you adhere to our collective Guiding Principles and Code of Conduct, but design and manage your community as you see fit, in full consideration of your local context. Together, we make OS the norm, for the benefit of science and society!
-
-***
-
-![INOSC Aim and Purpose](./fig5.png "INOSC Aim and Purpose")
-***Figure 5**. The aim and purpose of the International Network of Open Science Communities (INOSC).*
+![INOSC](./fig4.png "Vue d'ensemble des Communautés science ouverte actuelles")
+***Figure 4**. Vue d'ensemble des Communautés science ouverte actuelles. À la date de mai 2021, le Réseau international des Communautés science ouverte (en anglais *International Network of Open Science Communities* ou INOSC) compte 11 Communautés science ouverte aux Pays-Bas, 1 en Irlande, 1 en Suède et 1 en Arabie Saoudite. Image par [Anita Eerland](http://www.anitaeerland.com/about/), sous licence [CC BY-ND 3.0](https://creativecommons.org/licenses/by-nd/3.0/nl/deed.en).*
 
 ***
 
-[^1]: The term "science" is used here in its broadest sense and includes fields such as the humanities, social sciences and engineering; that is, it more suitably refers to any form of scholarship.
-[^2]: It is interesting to note that, while OSCs are open to members of all disciplines, the founders of these communities are often researchers in the field of Social Sciences. This is likely because the discourse around OS is very lively in this discipline, but also because most OSC coordinators attend the same events. One of the most influential in this respect is the annual meeting of the Society for the Improvement of Psychological Sciences ([SIPS](http://improvingpsych.org/)), where the format of the OSC was actively promoted by the OSCU founders.
-[^3]: In the case of Loek Brinkman and Antonio Schettino, this process of reflection was inspired by the [eLife Innovation Leaders](https://elifesciences.org/labs/ea8e2f51/introducing-innovation-leaders-2020) program, which itself was inspired by [Mozilla Open Leaders](https://foundation.mozilla.org/en/initiatives/mozilla-open-leaders/).
-[^4]: OSCA is a collaboration between two universities: the University of Amsterdam (UvA) and the Vrije Universiteit Amsterdam (VU).
-[^5]: [We have only just begun!](https://www.youtube.com/watch?v=__VQX2Xn7tI)
+## I.4 Appel à l'action
+
+En tant que coordinateurs de la Communauté locale, nous sommes très heureux et fiers de ce que nous avons réalisé jusqu'à présent, mais nous voulons toujours plus[^5] ! C'est pourquoi nous encourageons nos collègues du monde entier à créer des OSC dans leurs universités ou centres de recherche, afin de créer un élan pour un changement de culture à l'échelle mondiale en faveur de la SO (*Figure 5*). Nous vous invitons donc à créer une OSC locale. N'hésitez pas à vous mettre en relation avec nous afin de partir d'un exemple éprouvé et de profiter de notre réseau actif de coordinateurs de Communautés pour échanger des expériences et des idées. En outre, au fur et à mesure que le réseau s'étend, nous serons à même de solliciter collectivement des financements (inter)nationaux et contribuer aux politiques (inter)nationales. Faire partie du réseau en expansion des OSC signifie que vous adhérez à nos Principes directeurs et à notre Code de conduite, mais que vous concevez et gérez votre Communauté comme bon vous semble, en tenant pleinement compte du contexte local. Ensemble, nous faisons de la SO la norme, au bénéfice de la science et de la société !
+
+***
+
+![Objectifs et raison d'être d'INOSC](./fig5.png "Objectifs et raison d'être d'INOSC")
+***Figure 5**. Les objectifs et raison d'être de l'International Network of Open Science Communities (INOSC).*
+
+***
+
+[^1] : Le terme "science" est utilisé ici dans son sens le plus large et inclut des domaines tels que les sciences humaines, les sciences sociales et l'ingénierie ; soit toute forme d'érudition.
+[^2] : Il est intéressant de noter que, bien que les OSC soient ouvertes aux membres de toutes les disciplines, les fondateurs de ces Communautés sont souvent des chercheurs dans le domaine des sciences sociales. Cela s'explique probablement par le fait que le discours autour de la SO est très vivant dans cette discipline, mais aussi parce que la plupart des coordinateurs des OSC participent aux mêmes événements. L'un des plus influents à cet égard est la réunion annuelle de la Society for the Improvement of Psychological Sciences ([SIPS](http://improvingpsych.org/)), où le format des OSC a été activement promu par les fondateurs de l'OSCU.
+[^3] : Dans le cas de Loek Brinkman et Antonio Schettino, ce processus de réflexion a été inspiré par le programme [eLife Innovation Leaders](https://elifesciences.org/labs/ea8e2f51/introducing-innovation-leaders-2020), lui-même inspiré par [Mozilla Open Leaders](https://foundation.mozilla.org/en/initiatives/mozilla-open-leaders/).
+[^4] : OSCA est une collaboration entre deux universités : l'Université d'Amsterdam (UvA) et la Vrije Universiteit Amsterdam (VU).
+[^5] : Comme le dit la chanson, [We've Only Just Begun](https://www.youtube.com/watch?v=__VQX2Xn7tI) !
