@@ -110,7 +110,7 @@ Au bout d'un an, l'OSCU a obtenu un financement de l'Université d'Utrecht pour 
 
 En moins de deux ans, 11 Communautés science ouverte ont vu le jour aux Pays-Bas et deux en dehors des Pays-Bas (*Figure 4*), qui ont toutes organisé différentes activités et cherché où ils pouvaient contribuer le plus à faire avancer la SO dans leur université (voir *Encadré 1* pour un aperçu des réalisations). Si cette approche organique était rapide, amusante et efficace à court terme, elle manquait d'un objectif ou d'une stratégie globale claire. Les décisions étaient généralement prises de manière *ad hoc* (devrions-nous organiser un autre atelier ? ou lancer un blog ? ou… ou…) et il était difficile d'évaluer le succès de nos Communautés sur le terrain. Nous avons donc décidé de prendre du recul et de réfléchir à nos objectifs, stratégies et outils, que nous présentons maintenant dans ce kit de démarrage[^3].
 
-> ***Encadré 1.** réussites des Communautés science ouverte depuis 2018.*
+> ***Encadré 1.** Réussites des Communautés science ouverte depuis 2018.*
 > - OSC dans onze[^4] universités néerlandaises, totalisant plus de 700 membres (et ce n'est pas fini !)
 > - deux OSC en dehors des Pays-Bas, en Suède et en Irlande
 > - nombreux séminaires et événements de science ouverte, jusqu'à 75 participants
@@ -140,7 +140,7 @@ En tant que coordinateurs de la Communauté locale, nous sommes très heureux et
 
 ***
 
-[^1] : Le terme "science" est utilisé ici dans son sens le plus large et inclut des domaines tels que les sciences humaines, les sciences sociales et l'ingénierie ; soit toute forme d'érudition.
+[^1] : Le terme de "science" est utilisé ici dans son sens le plus large et inclut des domaines tels que les sciences humaines, les sciences sociales et l'ingénierie — soit toute forme d'érudition.
 [^2] : Il est intéressant de noter que, bien que les OSC soient ouvertes aux membres de toutes les disciplines, les fondateurs de ces Communautés sont souvent des chercheurs dans le domaine des sciences sociales. Cela s'explique probablement par le fait que le discours autour de la SO est très vivant dans cette discipline, mais aussi parce que la plupart des coordinateurs des OSC participent aux mêmes événements. L'un des plus influents à cet égard est la réunion annuelle de la Society for the Improvement of Psychological Sciences ([SIPS](http://improvingpsych.org/)), où le format des OSC a été activement promu par les fondateurs de l'OSCU.
 [^3] : Dans le cas de Loek Brinkman et Antonio Schettino, ce processus de réflexion a été inspiré par le programme [eLife Innovation Leaders](https://elifesciences.org/labs/ea8e2f51/introducing-innovation-leaders-2020), lui-même inspiré par [Mozilla Open Leaders](https://foundation.mozilla.org/en/initiatives/mozilla-open-leaders/).
 [^4] : OSCA est une collaboration entre deux universités : l'Université d'Amsterdam (UvA) et la Vrije Universiteit Amsterdam (VU).
