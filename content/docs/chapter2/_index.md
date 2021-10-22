@@ -293,7 +293,7 @@ Now that your community is up and running, what happens next? That’s up to you
 
 
 
-[^1]: Note that OSCG chose to use ‘Open Scholarship’ instead of ‘Open Science’ in their name to appeal more to colleagues who do not identify with the term ‘Science’. In the Netherlands, Community Leaders have stuck to ‘Open Science’, as this term is more mainstream. As mentioned earlier, the term ‘science’ is used here in its broadest sense.
+[^1]: Note that OSCGalway chose to use ‘Open Scholarship’ instead of ‘Open Science’ in their name to appeal more to colleagues who do not identify with the term ‘Science’. In the Netherlands, Community Leaders have stuck to ‘Open Science’, as this term is more mainstream. As mentioned earlier, the term ‘science’ is used here in its broadest sense.
 [^2]: The OSC logo bears similarity with the [Ubuntu logo](https://design.ubuntu.com/brand/ubuntu-logo/). We have agreed with Canonical Ltd. to set up guidelines to prevent any confusion regarding our respective logo, for example that the OSCs will not use the same color scheme as Ubuntu.
 [^3]: These numbers are based on the newsletter of the Open Science Community Utrecht.
 [^4]: There are, of course, many policies and infrastructures that are not determined locally, but rather at national or international level. It is worthwhile to invest time in interacting with relevant stakeholders at (inter)national levels as well.
