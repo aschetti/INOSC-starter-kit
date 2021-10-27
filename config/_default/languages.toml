@@ -11,10 +11,10 @@
 [fr]
   languageCode = "fr"
   contentDir = "content/fr"
-  title = "Kit de démarrage Communauté science ouverte"
+  title = "Kit de démarrage INOSC"
   [fr.params]
     description = "Ce kit de démarrage vous fournit les arguments, le modèle et les directives pour lancer votre propre Communauté science ouverte locale. Alors n'hésitez pas à vous lancer et vous mettre en relation avec nous."
   [[fr.menu.main]]
-    name = "Home"
-    url = "#about"
+    name = "Kit de démarrage INOSC"
+    url = "docs/"
     weight = 1
