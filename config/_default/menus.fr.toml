@@ -4,6 +4,6 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "INOSC Starter Kit"
+  name = "Kit de démarrage INOSC"
   url = "docs/"
   weight = 10

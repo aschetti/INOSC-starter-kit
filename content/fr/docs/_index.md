@@ -1,5 +1,5 @@
 ---
-title: 'Pr&eacute;ambule'
+title: 'Préambule'
 type: book  # Do not modify.
 toc: false # remove the right sidebar for table of contents
 ---
