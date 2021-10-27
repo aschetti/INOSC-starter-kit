@@ -14,7 +14,7 @@
   title = "Kit de démarrage Communauté science ouverte"
   [fr.params]
     description = "Ce kit de démarrage vous fournit les arguments, le modèle et les directives pour lancer votre propre Communauté science ouverte locale. Alors n'hésitez pas à vous lancer et vous mettre en relation avec nous."
-#  [[fr.menu.main]]
-#    name = "Wo"
-#    url = "#about"
-#    weight = 1
+  [[fr.menu.main]]
+    name = "Home"
+    url = "#about"
+    weight = 1
