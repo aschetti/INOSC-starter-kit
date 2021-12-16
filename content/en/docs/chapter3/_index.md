@@ -33,5 +33,7 @@ Author contributions are specified in the table below.
 | Vera E. Heininga | University of Groningen, Open Science Community Groningen | Contributions and suggestions to the text, mostly in 1.3 and 3.4; suggestion for figure in 1.1 |
 | Emmy Tsang | TU Delft, Open Science Community Delft | Section 3e ‘Community Building’ |
 | Anna van ‘t Veer | Leiden University, Methodology and Statistics unit of Psychology | Contributions and suggestions to the text; section 3c ‘Interactions between academia and society’ |
+| Antoine Blanchard | Datactivist | French translation |
+| Candice Fillaud | Datactivist | French translation (images) |
 
 ***
