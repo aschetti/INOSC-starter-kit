@@ -2,7 +2,10 @@
 
 # INOSC Starter Kit
 
-Source code of the website of the [INOSC Starter Kit](https://osf.io/7vez3/). Developed with [Hugo](https://themes.gohugo.io/) and [VSCodium](https://vscodium.com/). Published with [Wowchemy](https://wowchemy.com/), deployed with [Netlify](https://www.netlify.com/).
+Source code of the website of the [INOSC Starter Kit](https://osf.io/7vez3/). Developed with [Hugo](https://themes.gohugo.io/) and [VSCodium](https://vscodium.com/). Published with [Wowchemy](https://wowchemy.com/), deployed with [Netlify](https://www.netlify.com/). French translation by [Antoine Blanchard](https://github.com/Enro) and [Candice Fillaud](https://github.com/CFillaud).
 
 ***
+
+![INOSC logo](./static/media/INOSC_logo.jpg)
+
 ***
