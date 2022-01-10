@@ -110,8 +110,8 @@ In less than two years, eleven OSCs sprouted in the Netherlands and two outside 
 
 
 > ***Box 1.** Achievements of OSCs since 2018.*
-> - OSCs at eleven[^4] Dutch Universities, totalling more than 700 members (and growing!)
-> - Two OSCs outside of the Netherlands, in Sweden and Ireland
+> - OSCs at twelve[^4] Dutch Universities, totalling more than 700 members (and growing!)
+> - Three OSCs outside of the Netherlands: Sweden, Ireland, and Saudi Arabia
 > - Many OS workshops and events, with up to 75 attendees
 > - Several OS blogs written on various Open Science related topics (e.g., [10 Open Science Myths](https://openscience-groningen.nl/10-open-science-myths/))
 > - OSCG launched annual [Open Research Award](https://openscience-groningen.nl/call-for-submissions-open-research-awards/)
@@ -124,7 +124,7 @@ In less than two years, eleven OSCs sprouted in the Netherlands and two outside 
 ***
 
 ![INOSC](./fig4.png "Overview of the current Open Science Communities")
-***Figure 4**. Overview of the current Open Science Communities. As of May 2021, the International Network of Open Science Communities (INOSC) comprises Open Science Communities at 11 locations in the Netherlands, 1 in Ireland, 1 in Sweden, and 1 in Saudi Arabia. Image by [Anita Eerland](http://www.anitaeerland.com/about/), licensed under [CC BY-ND 3.0](https://creativecommons.org/licenses/by-nd/3.0/nl/deed.en).*
+***Figure 4**. Overview of the current Open Science Communities. As of January 2022, the International Network of Open Science Communities (INOSC) comprises Open Science Communities at 12 locations in the Netherlands, 1 in Ireland, 1 in Sweden, and 1 in Saudi Arabia. Image by [Anita Eerland](http://www.anitaeerland.com/about/), licensed under [CC BY-ND 3.0](https://creativecommons.org/licenses/by-nd/3.0/nl/deed.en).*
 
 ***
 
