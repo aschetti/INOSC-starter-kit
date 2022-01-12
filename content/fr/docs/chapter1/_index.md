@@ -111,8 +111,8 @@ Au bout d'un an, l'OSCU a obtenu un financement de l'Université d'Utrecht pour 
 En moins de deux ans, 11 Communautés science ouverte ont vu le jour aux Pays-Bas et deux en dehors des Pays-Bas (*Figure 4*), qui ont toutes organisé différentes activités et cherché où ils pouvaient contribuer le plus à faire avancer la SO dans leur université (voir *Encadré 1* pour un aperçu des réalisations). Si cette approche organique était rapide, amusante et efficace à court terme, elle manquait d'un objectif ou d'une stratégie globale claire. Les décisions étaient généralement prises de manière *ad hoc* (devrions-nous organiser un autre atelier ? ou lancer un blog ? ou… ou…) et il était difficile d'évaluer le succès de nos Communautés sur le terrain. Nous avons donc décidé de prendre du recul et de réfléchir à nos objectifs, stratégies et outils, que nous présentons maintenant dans ce kit de démarrage[^3].
 
 > ***Encadré 1.** Réussites des Communautés science ouverte depuis 2018.*
-> - OSC dans onze[^4] universités néerlandaises, totalisant plus de 700 membres (et ce n'est pas fini !)
-> - deux OSC en dehors des Pays-Bas, en Suède et en Irlande
+> - OSC dans douze[^4] universités néerlandaises, totalisant plus de 700 membres (et ce n'est pas fini !)
+> - trois OSC en dehors des Pays-Bas : en Suède, en Irlande et en Arabie Saoudite
 > - nombreux ateliers et événements de science ouverte, jusqu'à 75 participants
 > - plusieurs blogs tenus sur divers sujets liés à la science ouverte (par exemple, ce billet ["10 mythes de la science ouverte"](https://openscience-groningen.nl/10-open-science-myths/)).
 > - [Prix de la science ouverte](https://openscience-groningen.nl/call-for-submissions-open-research-awards/) lancé par l'OSCG
@@ -125,7 +125,7 @@ En moins de deux ans, 11 Communautés science ouverte ont vu le jour aux Pays-Ba
 ***
 
 ![INOSC](./fig4.png "Vue d'ensemble des Communautés science ouverte actuelles")
-***Figure 4**. Vue d'ensemble des Communautés science ouverte actuelles. À la date de mai 2021, le Réseau international des Communautés science ouverte (en anglais *International Network of Open Science Communities* ou INOSC) compte 11 Communautés science ouverte aux Pays-Bas, 1 en Irlande, 1 en Suède et 1 en Arabie Saoudite. Image par [Anita Eerland](http://www.anitaeerland.com/about/), sous licence [CC BY-ND 3.0](https://creativecommons.org/licenses/by-nd/3.0/nl/deed.en).*
+***Figure 4**. Vue d'ensemble des Communautés science ouverte actuelles. À la date de janvier 2022, le Réseau international des Communautés science ouverte (en anglais *International Network of Open Science Communities* ou INOSC) compte 12 Communautés science ouverte aux Pays-Bas, 1 en Irlande, 1 en Suède et 1 en Arabie Saoudite. Image par [Anita Eerland](http://www.anitaeerland.com/about/), sous licence [CC BY-ND 3.0](https://creativecommons.org/licenses/by-nd/3.0/nl/deed.en).*
 
 ***
 
