@@ -1,147 +1,147 @@
 ---
 # Title, summary, and page position.
-linktitle: 'Partie I : Introduction aux Communautés science ouverte'
+linktitle: 'Seção I : Introdução às Comunidades Científicas Abertas'
 summary: ''
 weight: 1
 icon: book
 icon_pack: fas
 
 # Page metadata.
-title: 'Partie I'
-date: "2021-10-11"
+title: 'Seção I'
+date: "2022-05-11"
 type: book  # Do not modify.
 ---
 
-## I.1 Le rôle des Communautés dans la transition vers la science ouverte
+## I.1 O papel das comunidades na transição para a Ciência Aberta
 
-La science ouverte[^1] (SO) recouvre un [vaste ensemble de pratiques](https://www.fosteropenscience.eu/themes/fosterstrap/images/taxonomies/os_taxonomy.png) qui ne cesse de croître et qui rend la production scientifique (publications, données, codes, protocoles, etc.) plus accessible, transparente, robuste et inclusive. La raison d'être de ces pratiques est que [l'ouverture améliore la qualité, l'efficacité et l'impact de la science](https://doi.org/10.3390/publications7030046). Si certaines de ces pratiques commencent à se généraliser (par exemple l'accès libre aux publications), d'autres sont loin d'être courantes (par exemple les données ouvertes et les preprints). Si vous lisez ce kit de démarrage, vous connaissez probablement un grand nombre de ces pratiques et vous êtes convaincus que la SO est bénéfique pour la science et la société. Nous le sommes aussi !
+A Ciência Aberta[^1] engloba um [conjunto grande e crescente de práticas](https://www.fosteropenscience.eu/themes/fosterstrap/images/taxonomies/os_taxonomy.png) que tornam a produção académica (publicações, dados, código, protocolos, etc.) mais acessível, transparente, confiável e inclusiva. A lógica por trás de qualquer uma destas práticas é que [a abertura aumenta a qualidade, a eficiência e o impacto da ciência](https://doi.org/10.3390/publications7030046). Si certaines de ces pratiques commencent à se généraliser (par exemple l'accès libre aux publications), d'autres sont loin d'être courantes (par exemple les données ouvertes et les preprints). Enquanto algumas práticas estão a começar a tornar-se mais difundidas (como a *Publicação em Acesso Aberto*), outras estão longe de ser aplicadas de forma corrente (por exemplo, *Dados abertos e Pré-impressões*). Se está a ler este Kit de Iniciação, provavelmente conhece muitas destas práticas e está convencido de que a Ciência Aberta é benéfica para a ciência e para a sociedade. Nós também!
 
-À première vue, la transition vers la SO peut sembler plutôt facile à réaliser. Pourquoi les gens n'adopteraient-ils pas ce formidable ensemble de nouvelles pratiques ? En réalité, cela ne demande rien de moins qu'un profond changement culturel dans le monde académique. Comme l'explique Brian Nosek dans [ce billet de blog](https://cos.io/blog/strategy-culture-change/), un changement culturel nécessite un ensemble d'ingrédients clés que l'on peut représenter sous forme de pyramide (*Figure 1*).
-
-***
-
-![La pyramide du changement culturel](./fig1.png "La pyramide du changement culturel")
-***Figure 1**. La pyramide du changement culturel. Illustration de Brian Nosek (sous [licence CC BY](https://twitter.com/BrianNosek/status/1446528277271748611)), tirée du billet de blog [Strategy for Culture Change](https://www.cos.io/blog/strategy-for-culture-change)*
+À primeira vista, a transição para a Ciência Aberta pode parecer bastante fácil de realizar. Por que motivo as pessoas não abraçariam este grande novo conjunto de práticas? Na realidade, requer nada menos do que uma profunda mudança cultural na academia. Conforme articulado por Brian Nosek nesta [publicação no blog](https://cos.io/blog/strategy-culture-change/), uma mudança de cultura precisa de um conjunto de ingredientes-chave que podem ser representados como uma pirâmide (*Figura 1*).
 
 ***
 
-Au sommet de cette pyramide se trouve la **politique**. Pour un changement culturel en faveur de la SO dans le monde académique, des politiques publiques sont nécessaires pour la promouvoir et s'assurer que les incitations institutionnelles sont alignées en conséquence. Au bas de cette pyramide, nous trouvons l'**infrastructure** nécessaire. Il est essentiel de disposer d'une infrastructure fiable, flexible et ergonomique pour mettre en pratique la science ouverte. Les plateformes en ligne permettent de mettre en place des flux de travail collaboratifs (par ex. [Open Science Framework](https://cos.io/)), de stocker et partager des données, codes et autres résultats (voir également [EOSC](https://www.eosc-portal.eu/)) et des services de soutien, par exemple, ceux fournis par les services de documentation. Cependant, malgré les politiques récentes et les infrastructures disponibles, nous attendons toujours un véritable changement culturel. Qu'est-ce qui nous retient ? Ce défi se situe au niveau de la couche intermédiaire de la pyramide, les **communautés** qui rendent la SO normale. À l'heure actuelle, la communauté scientifique engagée dans la SO est relativement restreinte et se compose principalement de personnes qui ont déjà une certaine pratique de la SO. Ces pionniers de la SO jouent souvent un rôle consultatif en matière de politique et d'infrastructure. Bien que leur contribution soit extrêmement précieuse, ils peuvent négliger les obstacles rencontrés par les nouveaux venus dans la SO. Ces nouveaux venus représentent le champ scientifique dans son sens le plus large : il ne s'agit pas seulement d'étudiants ou de chercheurs en début de carrière, mais aussi de chercheurs senior qui sont habitués à un mode de travail pendant des décennies et qui s'intéressent maintenant à des pratiques plus ouvertes. Si l'on n'implique pas cette communauté plus large et si l'on ne fait pas appel à des objectifs et des valeurs partagés, la SO risque de devenir une perte de temps ou "une case de plus à cocher" au lieu d'enrichir les méthodes de travail de chacun. L'adoption à grande échelle de la SO dépend donc de la transition des pionniers à la majorité précoce et tardive (*Figure 2*).
+![A pirâmide da mudança cultural](./fig1.png "A pirâmide da mudança cultural")
+***Figura 1**. A pirâmide da mudança de cultura. Imagem de Brian Nosek (sous [licenciada CC BY-ND 4.0](https://twitter.com/BrianNosek/status/1446528277271748611)), reproduzida da publicação do blog [Strategy for Culture Change](https://www.cos.io/blog/strategy-for-culture-change).*
 
 ***
 
-![Cycle de diffusion de l'innovation selon Everett Rogers](./fig2.png "Cycle de diffusion de l'innovation selon Everett Rogers")
-***Figure 2**. [Cycle de diffusion de l'innovation selon Everett Rogers](https://en.wikipedia.org/wiki/Technology_adoption_life_cycle#/media/File:DiffusionOfInnovation.png), indiquant les étapes par lesquelles passe généralement toute innovation : Innovateurs, Premiers adeptes, Majorité précoce, Majorité tardive, Retardataires.*
+No topo desta pirâmide está a **Política**. Para uma mudança cultural em direção à Ciência Aberta na academia, são necessárias políticas para a promover e garantir que os incentivos institucionais estejam alinhados com a Ciência Aberta. Na base dessa pirâmide, encontramos a **infraestrutura** necessária. Ter uma infraestrutura confiável, flexível e fácil de usar é essencial para colocar a Ciência Aberta em prática. As plataformas online permitem fluxos de trabalho colaborativos (por exemplo, a [Open Science Framework](https://cos.io/)), para armazenar e partilhar materiais, dados, código e os resultados (veja também a [European Open Science Cloud](https://www.eosc-portal.eu/)) e serviços de suporte, como aqueles fornecidos por Bibliotecas Universitárias ou de Politécnicos. Apesar das políticas recentes e da infraestrutura disponível, ainda estamos a aguardar uma verdadeira mudança cultural. O que está nos está a atrasar? Este desafio está na camada do meio da pirâmide, nas **Comunidades** que tornam a Ciência Aberta estatutária. Atualmente, a comunidade académica comprometida com a Ciência Aberta é relativamente pequena e consiste principalmente de pessoas pioneiras, que muitas vezes já são bastante experientes com práticas de Ciência Aberta. Estes pioneiros geralmente desempenham um papel consultivo em políticas e infraestrutura. Embora a sua contribuição seja extremamente valiosa, eles podem ignorar obstáculos enfrentados pelos recém-chegados à Ciência Aberta. Estes recém-chegados abrangem o campo académico de forma ampla: eles não serão apenas estudantes ou investigadores em início de carreira, mas provavelmente também académicos seniores, com prática de trabalho científico de décadas, que se interessaram agora em trabalhar de forma aberta com outros académicos. Sem envolver esta comunidade mais alargada e apelar para objetivos e valores científicos partilhados, a Ciência Aberta corre o risco de se tornar demorada, em vez de enriquecer as metodologias de trabalho de todos. A prática de Ciência Aberta em larga escala depende, portanto, da sua capacidade de ser adotada, dos pioneiros para a maioria da comunidade académica (*Figura 2*).
 
 ***
 
-Tout changement culturel a besoin d'une masse critique pour remettre en question et modifier le *statu quo*, et l'apport des nouveaux venus est essentiel pour affiner la politique et l'infrastructure nécessaires pour parvenir à une adoption large de la SO. Le principal défi de la transition vers la science ouverte est donc un **défi social** : comment impliquer une masse critique de la communauté scientifique ? Si beaucoup vivent la transition vers l'ouverture comme libératrice et plus conforme à leurs motivations intrinsèques, d'autres sont plus réticents à changer pour plusieurs raisons. Il se peut qu'ils soient à l'aise dans leurs pratiques actuelles, qu'ils n'en voient pas les avantages, qu'ils considèrent que l'investissement n'en vaut pas la peine, ou qu'ils soient dépassés et frustrés par la surcharge d'information et l'absence de norme et de reconnaissance institutionnelle. Certains pourraient même penser que la SO n'est qu'une phase, et voudront attendre que cela se calme. Sauf que ça ne se calmera pas. La transition est bel et bien là et tous les chercheurs devront y faire face. Le moment est venu de construire et de façonner cette transition et, pour cela, nous avons besoin de la contribution de la communauté scientifique dans son ensemble.
+![Curva do Sino de Roger](./fig2.png "Curva do Sino de Roger")
+***Figura 2**. [O Ciclo de Vida de Adoção da Inovação, ou Curva do Sino de Roger](https://en.wikipedia.org/wiki/Technology_adoption_life_cycle#/media/File:DiffusionOfInnovation.png), indicando os estágios pelos quais qualquer inovação normalmente passa: Inovadores, Adotantes Iniciais, Maioria Inicial, Maioria Tardia e Retardatários.*
 
-C'est là que les Communautés science ouverte (en anglais *Open Science Communities* ou OSC) entrent en jeu. Il s'agit de communautés d'apprentissage par la base conçues pour une grande partie des chercheurs. Pour ce faire, nous rendons les OSC plus **visibles**, plus **accessibles**, et nous explorons les **obstacles et les exigences** qui se présentent aux nouveaux venus qui veulent ouvrir leurs pratiques. Pour une présentation plus détaillée du rôle des OSC dans la transition vers la science ouverte, veuillez lire notre [livre blanc](https://doi.org/10.31222/osf.io/7gct9/).
+***
 
-Pour mettre en place un changement mondial vers la SO, nous avons besoin de nombreuses OSC locales, à travers le monde. C'est avec ces objectifs en tête que nous avons créé ce kit de démarrage, pour vous inspirer et vous permettre de créer une OSC locale. La clé pour accélérer la transition vers la SO peut, littéralement, être entre vos mains.
+Qualquer mudança cultural precisa de massa crítica para desafiar e mudar o *status quo*, e a contribuição dos recém-chegados é essencial para refinar a política e a infraestrutura necessárias para alcançar uma ampla adoção da Ciência Aberta. O principal desafio na transição para a Ciência Aberta é, portanto, um **desafio social**: como atrair a massa crítica necessária da comunidade académica? Enquanto muitos experimentam a transição para a abertura como libertadora e mais de acordo com motivações intrínsecas, outros hesitam em mudar, por várias razões. Podem sentir-se confortáveis com ​​as suas práticas atuais, não entender os benefícios adicionais, não considerar que vale a pena o investimento ou ficar sobrecarregados e frustrados pelo simples acumular de novas informações, e pela falta de práticas padronizadas e de reconhecimento institucional. Alguns podem até sentir que a Ciência Aberta é apenas uma fase e desejarão esperar até que acabe. A realidade é que não vai acabar. A transição é real e todos os estudiosos e investigadores terão de lidar com ela. É a hora de construirmos e moldarmos esta transição e, para isso, precisamos da contribuição da comunidade académica no geral.
 
-## I.2 Notre format pour les Communautés science ouverte
+É aqui que as Comunidades de Ciência Aberta (em inglês *Open Science Communities*, OSCs) entram em cena. São comunidades de aprendizagem "de baixo para cima", projetadas para atrair uma grande parte dos investigadores. Fazemos isto tornando a Ciência Aberta mais **visível**, mais **acessível** e explorando os **obstáculos e os requisitos** para que os recém-chegados tornarem as suas práticas de trabalho mais abertas. Para uma introdução mais elaborada do papel das OSC na transição para a Ciência Aberta, leia nosso [Whitepaper](https://doi.org/10.1093/scipol/scab039).
 
-Le format d'OSC que nous présentons dans ce kit de démarrage est une communauté d'apprentissage **ascendante** (*bottom-up*) composée de membres de différentes disciplines scientifiques à différents stades de leur carrière. Les OSC s'adressent principalement aux universitaires mais toute personne, qu'elle soit issue du secteur privé, des pouvoirs publics ou de la société, est également la bienvenue.
+Para incentivar uma mudança global em direção à Ciência Aberta, precisamos de muitas OSCs locais, em todo o mundo. É com este objetivo em mente que criámos este Kit de Iniciação, para inspirar e capacitar pessoas como você a criar uma OSC local. A chave para acelerar a transição para a Ciência Aberta pode, literalmente, estar nas suas mãos.
 
-Notre vision et notre mission sont :
+## I.2 O Nosso formato para Comunidades de Ciência Aberta
 
-> **Vision et mission**
+O formato de OSCs que apresentamos neste Kit de Iniciação é uma comunidade de aprendizagem **ascendente**, composta por membros de várias disciplinas científicas e estádios de carreira. O principal público-alvo das OSCs são académicos, mas também é extensível a outros. A indústria, ministérios ou cidadãos, também são bem-vindos.
+
+A nossa visão e missão são:
+
+> **Visão e missão**
 >
-> La science ouverte améliore la qualité, l'accessibilité et l'efficacité de la science, mais n'est **pas encore la norme** dans la recherche. Alors que des chercheurs pionniers développent et adoptent les pratiques de science ouverte, la majorité s'en tient au *statu quo*. Pour *passer des pionniers à la pratique courante*, nous devons engager une part significative de la communauté académique.
+> A Ciência Aberta melhora a qualidade, a acessibilidade e a eficiência da ciência, mas ainda **não é a norma** na investigação. Enquanto académicos pioneiros estão a desenvolver e a adotar práticas de Ciência Aberta, a maioria mantém o *status quo*. Para *passar dos pioneiros à prática comum*, precisamos de envolver uma proporção crítica da comunidade de investigadores.
 >
-> C'est ici que les Communautés science ouverte entrent en jeu.
+> É aqui que as Comunidades de Ciência Aberta entram.
 >
-> Les Communautés science ouverte offrent un lieu où **les nouveaux venus et les pairs expérimentés** interagissent, **s'inspirent mutuellement** pour intégrer les pratiques et les valeurs de la science ouverte dans leurs pratiques, et font un retour sur les feuilles de route, l'infrastructure et les services de soutien.
+> As Comunidades de Ciência Aberta fornecem um local onde **recém-chegados e colegas experientes** interagem e **se inspiram uns aos outros** a incorporar práticas e valores de Ciência Aberta nos seus métodos de trabalho, enquanto fornecem feedback sobre políticas, infraestrutura e serviços de apoio.
 >
-> Ensemble, nous faisons de la science ouverte une norme !  
+> Juntos, fazemos da Ciência Aberta a norma!
 
-La mission ci-dessus peut être décomposée en objectifs pratiques (*Figure 3*) :
+A missão acima pode ser dividida em objetivos práticos (*Figura 3*) :
 
-> **Objectifs**
-> - Accueillir les nouveaux venus à la science ouverte
-> - Augmenter l'appropriation des pratiques de science ouverte
-> - Servir de terreau aux initiatives de science ouverte
-> - Interagir avec les politiques, les infrastructures et les services de soutien
-> - Renforcer les interactions entre le monde académique et la société
+> **Objetivos**
+> - Convide recém-chegados para a Ciência Aberta
+> - Aumente o seu envolvimento em práticas de Ciência Aberta
+> - Sirva como um terreno fértil para iniciativas de Ciência Aberta
+> - Interaja com políticas, infraestrutura e serviços de apoio
+> - Promova interações entre a academia e a sociedade
 
 ***
 
-![Principales raisons d'être des OSC](./fig3.png "Principales raisons d'être des OSC")
-***Figure 3**. Schéma présentant les principales raisons d'être d'une Communauté science ouverte (en légende).*
+![Principais objetivos das OSC](./fig3.png "Principais objetivos das OSC")
+***Figura 3**. Infográfico que destaca os principais objetivos de uma Comunidade de Ciência Aberta (ver legenda).*
 
 ***
 
-*Objectif n°&nbsp;1 - Accueillir les nouveaux venus à la science ouverte*  
-L'objectif principal d'une OSC est d'accueillir les nouveaux venus dans le domaine de la SO et de proposer un espace où ils peuvent apprendre de leurs pairs et identifier les moyens de surmonter les difficultés lors de la transition vers des pratiques (plus) ouvertes. Une OSC est une communauté d'apprentissage : il n'est pas nécessaire d'avoir une quelconque expérience de la SO pour rejoindre la Communauté, ni de s'engager formellement à adopter de telles pratiques. Ce qui unit les membres de la Communauté, c'est leur intérêt pour la SO, affiché publiquement sur le site web de leur OSC.   
-Pour interagir avec les nouveaux venus, il est crucial qu'ils connaissent l'existence de votre Communauté. Vous devez être visible. De même, les nouveaux venus doivent être attirés par la Communauté. Ils doivent se sentir chez eux. Il est essentiel de trouver le bon ton. Nous fournissons des consignes pratiques à cet égard dans la [*Partie II*]({{< ref "../chapter2/_index.md" >}}).
+*Objetivo n°&nbsp;1 - Convide os recém-chegados para a Ciência Aberta*  
+O objetivo principal de uma OSC é dar as boas-vindas aos recém-chegados à Ciência Aberta e fornecer uma plataforma onde possam aprender com os seus pares e identificar maneiras de superar barreiras ao fazer a transição para métodos de trabalho (mais) abertos. Uma OSC é uma comunidade de aprendizagem: não precisa de ter nenhuma experiência com Ciência Aberta para ingressar na comunidade ou para se comprometer com essas práticas ao ingressar. O que une os membros da comunidade é o interesse pela Ciência Aberta, exibido publicamente no site da sua Comunidade.
+Para interagir com os recém-chegados, é fundamental que eles saibam da existência da sua Comunidade de Ciência Aberta. É preciso que esteja visível. Além disso, os recém-chegados precisam de ser atraídos para a comunidade. Precisam de se sentir em casa. É esta a chave para se atingir o tom certo. Fornecemos orientações práticas a esse respeito na [*Seção II*]({{<ref"../chapter2/_index.md">}}).
 
-*Objectif n°&nbsp;2 - Augmenter l'appropriation des pratiques de science ouverte*   
-Augmenter l'appropriation des pratiques de SO est la clé notre mission. Il s'agit  d'inciter les nouveaux venus à faire leurs premiers pas, mais aussi de consolider leurs pratiques actuelles de la SO parmi les collègues qui ont déjà changé (une partie de) leur méthode de travail. Notre principale stratégie consiste à faciliter l'échange de connaissances entre pairs. Dans la [*Partie II*]({{< ref "../chapter2/_index.md" >}}), nous fournissons plusieurs exemples concrets de formats qui favorisent l'échange de connaissances entre pairs.
+*Objetivo n°&nbsp;2 - Aumente o envolvimento com as práticas de Ciência Aberta*   
+Aumentar o envolvimento com as práticas de Ciência Aberta é central para a nossa missão. Isto inclui inspirar os recém-chegados a dar os seus primeiros passos, mas também a consolidar as práticas atuais de Ciência Aberta entre colegas que já aderiram ao (partes do) seu método de trabalho. A nossa principal estratégia é facilitar a troca de conhecimento entre os pares. Na [*Seção II*]({{<ref"../chapter2/_index.md">}}), fornecemos vários exemplos práticos de formatos que promovem a troca de conhecimento entre pares.
 
-*Objectif n°&nbsp;3 - Servir de terreau aux initiatives de science ouverte*
-Le succès d'une Communauté dépend des contributions de ses membres. Il est donc important de **permettre aux membres de lancer leurs propres initiatives** au sein de la Communauté. Ces initiatives peuvent être facilitées en fournissant des lignes directrices, en les annonçant sur le site web, la *newsletter* et les réseaux sociaux et, si possible, en leur allouant un budget. Au lieu de proposer de nouvelles initiatives, les membres peuvent également transposer des formats qui ont fait leurs preuves dans d'autres OSC notamment. Des conseils pratiques et des exemples d'initiatives ayant fait leurs preuves sont détaillés dans la [*Partie II*]({{< ref "../chapter2/_index.md" >}}).
+*Objetivo n°&nbsp;3 - Sirva como terreno fértil para iniciativas de Ciência Aberta*
+O sucesso de uma Comunidade depende das contribuições dos seus membros. Portanto, é importante **permitir que os membros iniciem as suas próprias iniciativas** dentro da Comunidade. Essas iniciativas dos membros podem ser facilitadas fornecendo diretrizes, anunciando-as no website, no *boletim informativo*, nos media social e, se possível, alocando orçamento. Em vez de desenvolver novas iniciativas, os membros também podem adotar formatos existentes que tiveram sucesso comprovado noutras instituições (por exemplo, noutras OSCs). Diretrizes práticas e exemplos de formatos de sucesso são detalhados na [*Seção II*]({{<ref"../chapter2/_index.md">}}).
 
-*Objectif n°&nbsp;4 - Interagir avec les politiques, les infrastructures et les services de soutien*   
-L'une des principales caractéristiques d'une OSC est qu'elle fonctionne **indépendamment** de la politique institutionnelle. Cela signifie que la Communauté est une organisation autonome qui ne reçoit pas d'instructions, d'objectifs ou de tâches d'autres parties. Cependant, les OSC ne doivent pas fonctionner de manière isolée. Comme indiqué dans la [*Partie I.1*](#I.1-Le-rôle-des-Communautés-dans-la-transition-vers-la-science-ouverte), les OSC ont leur place entre la politique et l'infrastructure. La politique prescrit ce qui est requis, souhaité et encouragé ; l'infrastructure détermine ce qui est possible ; mais la Communauté décide comment les choses se font en pratique. Pour faciliter une transition en douceur vers la SO, toutes les parties prenantes doivent collaborer. C'est pourquoi le(s) coordinateur(s) de la Communauté s'efforce(nt) de renforcer les liens avec les collègues occupant des postes de direction, en particulier ceux impliqués dans les **politiques institutionnelles, les infrastructures et les services de soutien**. Des exemples pratiques de collaboration avec ces acteurs sont abordés dans la [*Partie II*]({{< ref "../chapter2/_index.md" >}}).
+*Objetivo n°&nbsp;4 - Interaja com políticas, infraestrutura e serviços de apoio*   
+Uma das principais características de uma OSC é que ela opera **independentemente** da política institucional. Isso significa que a comunidade é uma organização autodirigida que não recebe instruções, metas ou tarefas de outros. No entanto, as OSCs não devem operar isoladamente. Conforme discutido na [*Seção I.I*](#I.1-O-papel-das-comunidades-na-transição-para-a-Ciência-Aberta), as OSCs estão bem posicionadas entre a política e a infraestrutura. A política descreve o que é necessário, desejado e incentivado; a infraestrutura determina o que é possível; mas a comunidade determina como as coisas são feitas na prática. Para facilitar uma transição suave para a Ciência Aberta, todas as partes interessadas precisam de colaborar. Portanto, o(s) coordenador(es) da(s) comunidade(s) esforça(m)-se para aumentar as conexões com colegas em cargos de liderança, em particular aqueles envolvidos em **políticas institucionais, infraestrutura e apoio**. Exemplos práticos de colaboração são discutidos na [*Seção II*]({{<ref"../chapter2/_index.md">}}).
 
-*Objectif n°&nbsp;5 - Renforcer les interactions entre le monde académique et la société*
-La SO est non seulement ouverte aux collègues du monde académique, mais aussi ouverte à la société. Nous encourageons donc les interactions entre les chercheurs et les acteurs de la société : société civile organisée, citoyens, patients, hommes et femmes politiques, entreprises. Une première étape consiste à rendre notre travail accessible à ces acteurs. Quand c'est possible, nous encourageons également à les impliquer à toutes les étapes du cycle de la recherche.
+*Objetivo n°&nbsp;5 - Promova interações entre a academia e a sociedade*
+Ciência Aberta significa não apenas aberta aos colegas da academia, mas também à sociedade. Portanto, promovemos interações entre académicos e partes interessadas da sociedade, como a sociedade civil, civis, doentes, políticos e a indústria. Um primeiro passo é tornar o nosso trabalho acessível a essas partes interessadas. Quando aplicável, também incentivamos o seu envolvimento em todas as etapas do ciclo de investigação.
 
 ***
 
-| Objectifs       | Public cible     | Stratégies et formats   |
+| Objetivos       | Público-alvo     | Estratégias e formatos   |
 | :------------- | :----------: | -----------: |
-| Accueillir les nouveaux venus à la science ouverte | Nouveaux venus | Site web, newsletter, dépliants, <br> *goodies*, réseaux sociaux, ton |
-| Augmenter l'appropriation des pratiques de science ouverte | Nouveaux venus et collègues expérimentés | Présentations flash, ateliers, <br> colloques, programmes de mentorat, forum |
-| Servir de terreau aux initiatives de science ouverte | Nouveaux venus et collègues expérimentés | Initiatives des membres, initiatives ayant fait leurs preuves |
-| Interagir avec les politiques, les infrastructures et les services de soutien | Présidents d'université, organes de direction, <br> doyens, bibliothécaires, informaticiens | Réunions de concertation régulières avec les parties prenantes |
-| Renforcer les interactions entre le monde académique et la société | Chercheurs, société civile | Colloques, réunions d'information, festivals de science, communication en ligne |
+| Alcance e inclua os recém-chegados em Ciência Aberta | Recém-chegados | Website, boletim informativo, folhetos, mercadoria, media, tom |
+| Aumente o envolvimento com as práticas de Ciência Aberta | Recém-chegados e colegas experientes | Palestras, workshops, simpósios, programas de mentoria, fóruns |
+| Sirva como terreno fértil para iniciativas de Ciência Aberta | Recém-chegados e colegas experientes | Iniciativas de membros, coleção de formatos estabelecidos |
+| Forneça informações para políticas, infraestrutura e apoio | Reitor, conselho, bibliotecários, especialistas em TI | Reuniões regulares com as partes interessadas |
+| Promova interações entre os académicos e a sociedade | Académicos, atores da sociedade civil e cidadãos | Simpósios, reuniões de informação, festivais de ciências, comunicação online |
 
-***Table 1**. Objectifs et publics. Les stratégies et formats sont détaillées dans la [Partie II]({{< ref "../chapter2/_index.md" >}}).*
-
-***
-
-## I.3 Histoire et réussites de nos Communautés science ouverte
-
-Pour un aperçu de la façon dont une OSC peut grandir, regardons comment les OSC des Pays-Bas ont progressé. La première OSC a été celle d'Utrecht ([OSCU](https://openscience-utrecht.com/)), lancée en 2018 à l'Université d'Utrecht par deux chercheurs passionnés par la SO. Ils ont commencé par rendre plus visibles les pratiques de SO dans leur université, en demandant à des collègues impliqués dans la SO de rejoindre la Communauté et en listant leurs expertises SO sur le site web. En outre, ils ont recruté des membres qui étaient intéressés par la SO, mais qui n'avaient pas d'expérience dans ce domaine. Ces membres pouvaient alors contacter leurs pairs plus expérimentés pour en savoir plus sur certaines pratiques. En outre, les membres de l'OSCU ont reçu un bulletin d'information mensuel et les fondateurs ont commencé à mettre en valeur la Communauté sur le campus et sur les médias sociaux. Au fil du temps, le nombre de membres a augmenté et l'OSCU a commencé à organiser une série d'ateliers sur des thèmes choisis par une enquête auprès de ses membres. En outre, les fondateurs ont créé un [tutoriel étape par étape](https://openscience-utrecht.com/community-blueprint/) décrivant comment ils ont lancé l'OSCU, afin d'aider les collègues d'autres universités à lancer une initiative similaire dans leur université. En un an, des collègues de plusieurs universités néerlandaises (*Figure 3*) ont lancé des OSC parallèles, fonctionnant sous un acronyme et un logo similaires et partageant un ensemble de Principes directeurs et un Code de conduite[^2].
-
-Au bout d'un an, l'OSCU a obtenu un financement de l'Université d'Utrecht pour développer et pérenniser ses activités, ce qui a conduit à la désignation d'ambassadeurs chargés de promouvoir la Communauté dans leurs facultés respectives via les réunions de l'OSC-NL (OSC Pays-Bas). Après la première réunion OSC-NL, une pléthore d'ateliers et d'événements sur la SO ont été organisés bien au-delà d'Utrecht. Par exemple, au cours de la première année qui a suivi la participation à la première OSC-NL, la Communauté science ouverte de Groningen (OSCG) a lancé une pétition dans laquelle 244 membres du personnel de l'Université de Groningen ont indiqué être prêts à soutenir activement l'OSCG. Après son lancement officiel, l'OSCG a organisé six exposés et ateliers (par exemple sur la visualisation des données, le pré-enregistrement (*registered reports*) etc.), a lancé un [site Web](https://openscience-groningen.nl/), un [compte Twitter](https://twitter.com/OSCGroningen) et une [chaîne YouTube](https://www.youtube.com/channel/UCNqQuXVcwnnof_7QEIaabdQ), et a commencé à envoyer une lettre d'information bimestrielle à l'OSCG (227 abonnés). Plus récemment, en collaboration avec le service de documentation, ils ont mis en place un [Prix de la science ouverte](https://openscience-groningen.nl/call-for-submissions-open-research-awards/) annuel pour le personnel et les étudiants de l'université.   
-
-En moins de deux ans, 11 Communautés science ouverte ont vu le jour aux Pays-Bas et deux en dehors des Pays-Bas (*Figure 4*), qui ont toutes organisé différentes activités et cherché où ils pouvaient contribuer le plus à faire avancer la SO dans leur université (voir *Encadré 1* pour un aperçu des réalisations). Si cette approche organique était rapide, amusante et efficace à court terme, elle manquait d'un objectif ou d'une stratégie globale claire. Les décisions étaient généralement prises de manière *ad hoc* (devrions-nous organiser un autre atelier ? ou lancer un blog ? ou… ou…) et il était difficile d'évaluer le succès de nos Communautés sur le terrain. Nous avons donc décidé de prendre du recul et de réfléchir à nos objectifs, stratégies et outils, que nous présentons maintenant dans ce kit de démarrage[^3].
-
-> ***Encadré 1.** Réussites des Communautés science ouverte depuis 2018.*
-> - OSC dans douze[^4] universités néerlandaises, totalisant plus de 700 membres (et ce n'est pas fini !)
-> - trois OSC en dehors des Pays-Bas : en Suède, en Irlande et en Arabie Saoudite
-> - nombreux ateliers et événements de science ouverte, jusqu'à 75 participants
-> - plusieurs blogs tenus sur divers sujets liés à la science ouverte (par exemple, ce billet ["10 mythes de la science ouverte"](https://openscience-groningen.nl/10-open-science-myths/)).
-> - [Prix de la science ouverte](https://openscience-groningen.nl/call-for-submissions-open-research-awards/) lancé par l'OSCG
-> - sollicitations fréquentes pour animer des conférences et des ateliers sur la science ouverte lors d'événements nationaux et internationaux
-> - contribution à d'importantes demandes de financement en Europe et aux États-Unis
-> - sollicitations fréquentes pour conseiller les décideurs locaux
-> - sollicitations fréquentes pour promouvoir des ressources (bibliothèques universitaires, projet national ORCID)
-> - reconnaissance au niveau local par les [présidents d'université](https://www.uu.nl/sites/default/files/uu-oaj-2019-2020-henk-kummeling.pdf) et les doyens et, au niveau international, par le [Center for Open Science](https://www.cos.io/blog/how-build-open-science-network-your-community) et la [Society for the Improvement of Psychological Science](https://improvingpsych.org/mission/awards/).
+***Tabela 1**. Objetivos e públicos-alvo. Estratégias e formatos são detalhados na [*Seção II*]({{<ref"../chapter2/_index.md">}}).*
 
 ***
 
-![INOSC](./fig4.png "Vue d'ensemble des Communautés science ouverte actuelles")
-***Figure 4**. Vue d'ensemble des Communautés science ouverte actuelles. À la date de janvier 2022, le Réseau international des Communautés science ouverte (en anglais *International Network of Open Science Communities* ou INOSC) compte 12 Communautés science ouverte aux Pays-Bas, 1 en Irlande, 1 en Suède et 1 en Arabie Saoudite. Image par [Anita Eerland](http://www.anitaeerland.com/about/), sous licence [CC BY-ND 3.0](https://creativecommons.org/licenses/by-nd/3.0/nl/deed.en).*
+## I.3 História e Realizações das nossas Comunidades de Ciência Aberta (OSC)
+
+Para ter uma ideia de como uma OSC pode evoluir, vamos dar recordar como avançaram na Holanda. A primeira OSC foi a de Utrecht ([OSCU](https://openscience-utrecht.com/)), iniciada em 2018 nesta Universidade por dois investigadores entusiastas da Ciência Aberta. Começaram e tornaram mais visível a prevalência de práticas de Ciência Aberta na sua universidade, pedindo a colegas que estavam envolvidos em Ciência Aberta para se juntarem numa Comunidade e publicarem a sua experiência em Ciência Aberta no website dessa Comunidade. Além disso, recrutaram membros que estavam interessados ​​em Ciência Aberta, mas que não tinham experiência anterior com ela. Estes membros poderiam entrar em contato com os seus colegas mais experientes para saber mais sobre práticas de Ciência Aberta. Por outro lado, os membros da OSCU receberam um boletim mensal e os fundadores começaram a envolver-se na comunidade ao redor do campus e nos media. Com o tempo, o número de membros aumentou e a OSCU começou a organizar uma série de workshops cujos temas foram baseados nos resultados a um inquérito aos seus membros. Além disso, os fundadores criaram um [tutorial passo a passo](https://openscience-utrecht.com/community-blueprint/) descrevendo como iniciaram a OSCU, para ajudar colegas de outras universidades a iniciar uma iniciativa semelhante na sua universidade. Dentro de um ano, colegas de várias universidades holandesas (*Figura 4*) iniciaram OSCs paralelas, operando sob um acrónimo e logotipo semelhantes e partilhando um conjunto de Princípios Orientadores e um Código de Conduta[^2].
+
+Após um ano, a OSCU obteve um orçamento da Universidade de Utrecht para desenvolver e sustentar as suas atividades, o que levou à nomeação de Embaixadores das Faculdades para promover a Comunidade nas suas respetivas faculdades por meio de reuniões da OSC-NL (OSC Holanda). Após a primeira reunião da OSC-NL, organizaram-se uma série de workshops e de eventos de Ciência Aberta, muito além de Utrecht. Por exemplo, no primeiro ano após participar do primeiro OSC-NL, a Open Science Community Groningen (OSCG) realizou uma petição na qual 244 funcionários da Universidade de Groningen indicaram que estariam dispostos a apoiar ativamente a OSCG. Após o início oficial, o OSCG organizou seis palestras e workshops (por exemplo, sobre visualização de dados, relatórios registados e pré-registo para estudos qualitativos), lançou um [website](https://openscience-groningen.nl/), uma [conta no Twitter](https://twitter.com/OSCGroningen) (com 420 seguidores para já) e um [canal no YouTube](https://www.youtube.com/channel/UCNqQuXVcwnnof_7QEIaabdQ), e passou a enviar uma newsletter bimestral da OSCG (227 assinantes). Mais recentemente, em colaboração com a Biblioteca da Universidade, criaram um [Prémio de Investigação Aberta](https://openscience-groningen.nl/call-for-submissions-open-research-awards/) anual para colaboradores e estudantes universitários.
+
+Em menos de dois anos, surgiram onze OSCs na Holanda e duas fora da Holanda (*Figura 4*), que organizaram diferentes atividades de Ciência Aberta e que se preocuparam em saber onde poderiam contribuir mais dentro daquela universidade específica (veja a *tabela 2* para uma visão geral das concretizações). Embora essa abordagem orgânica fosse rápida, divertida e eficaz no curto prazo, faltava uma estratégia ou uma meta abrangente e clara. As decisões eram tipicamente tomadas *ad hoc* (devemos organizar outro workshop? Ou iniciar um blog? Ou... Ou...) e era difícil avaliar o sucesso de nossas Comunidades na prática. Por isso, decidiu-se dar um passo atrás e refletir sobre nossos objetivos, estratégias e ferramentas, que agora articulamos neste Kit de Iniciação[^3].
+
+> ***Tabela 2.** Conquistas das OSCs desde 2018.*
+> - OSCs em doze[^4] Universidades Holandesas, totalizando mais de 700 membros (e a crescer!)
+> - Três OSCs fora da Holanda: Suécia, Irlanda e Arábia Saudita
+> - Muitos workshops e eventos de Ciência Aberta, com até 75 participantes
+> - Vários blogs de Ciência Aberta escritos sobre vários tópicos relacionados com o tema da Ciência Aberta (por exemplo, ["10 Mitos da Ciência Aberta"](https://openscience-groningen.nl/10-open-science-myths/)
+> - A OSCG lançou o [Open Research Award anual](https://openscience-groningen.nl/call-for-submissions-open-research-awards/)
+> - Solicitações frequentes para ministrar palestras e workshops de Ciência Aberta em eventos nacionais e internacionais
+> - Contribuição para grandes propostas de financiamento da UE e dos EUA
+> - Solicitações frequentes para aconselhar na execução de políticas locais
+> - Solicitação frequente para promover materiais (por exemplo, para bibliotecas universitárias ou para o projeto nacional ORCID)
+> - Receção de reconhecimento local de [Reitores](https://www.uu.nl/sites/default/files/uu-oaj-2019-2020-henk-kummeling.pdf) e internacional, do [Center for Open Science](https://www.cos.io/blog/how-build-open-science-network-your-community) e da [Society for the Improvement of Psychological Science](https://improvingpsych.org/mission/awards/)
 
 ***
 
-## I.4 Appel à l'action
-
-En tant que coordinateurs de la Communauté locale, nous sommes très heureux et fiers de ce que nous avons réalisé jusqu'à présent, mais nous voulons toujours plus[^5] ! C'est pourquoi nous encourageons nos collègues du monde entier à créer des OSC dans leurs universités ou centres de recherche, afin de créer un élan pour un changement de culture à l'échelle mondiale en faveur de la SO (*Figure 5*). Nous vous invitons donc à créer une OSC locale. N'hésitez pas à vous mettre en relation avec nous afin de partir d'un exemple éprouvé et de profiter de notre réseau actif de coordinateurs de Communautés pour échanger des expériences et des idées. En outre, au fur et à mesure que le réseau s'étend, nous serons à même de solliciter collectivement des financements (inter)nationaux et contribuer aux politiques (inter)nationales. Faire partie du réseau en expansion des OSC signifie que vous adhérez à nos Principes directeurs et à notre Code de conduite, mais que vous concevez et gérez votre Communauté comme bon vous semble, en tenant pleinement compte du contexte local. Ensemble, nous faisons de la SO la norme, au bénéfice de la science et de la société !
-
-***
-
-![Objectifs et raison d'être d'INOSC](./fig5.png "Objectifs et raison d'être d'INOSC")
-***Figure 5**. Les objectifs et raison d'être de l'International Network of Open Science Communities (INOSC).*
+![INOSC](./fig4.png "Visão geral das atuais Comunidades de Ciência Aberta")
+***Figura 4**. Visão geral das atuais Comunidades de Ciência Aberta. A partir de janeiro de 2022, a *Rede Internacional de Comunidades de Ciência Aberta* (INOSC) compreende Comunidades de Ciência Aberta em 12 locais na Holanda, uma na Irlanda, uma na Suécia e uma na Arábia Saudita. Imagem de [Anita Eerland](http://www.anitaeerland.com/about/), licença [CC BY-ND 3.0](https://creativecommons.org/licenses/by-nd/3.0/nl/deed.en).*
 
 ***
 
-[^1] : Le terme de "science" est utilisé ici dans son sens le plus large et inclut des domaines tels que les sciences humaines, les sciences sociales et l'ingénierie — soit toute forme d'érudition.
-[^2] : Il est intéressant de noter que, bien que les OSC soient ouvertes aux membres de toutes les disciplines, les fondateurs de ces Communautés sont souvent des chercheurs dans le domaine des sciences sociales. Cela s'explique probablement par le fait que le discours autour de la SO est très vivant dans cette discipline, mais aussi parce que la plupart des coordinateurs des OSC participent aux mêmes événements. L'un des plus influents à cet égard est la réunion annuelle de la Society for the Improvement of Psychological Sciences ([SIPS](http://improvingpsych.org/)), où le format des OSC a été activement promu par les fondateurs de l'OSCU.
-[^3] : Dans le cas de Loek Brinkman et Antonio Schettino, ce processus de réflexion a été inspiré par le programme [eLife Innovation Leaders](https://elifesciences.org/labs/ea8e2f51/introducing-innovation-leaders-2020), lui-même inspiré par [Mozilla Open Leaders](https://foundation.mozilla.org/en/initiatives/mozilla-open-leaders/).
-[^4] : OSCA est une collaboration entre deux universités : l'Université d'Amsterdam (UvA) et la Vrije Universiteit Amsterdam (VU).
-[^5] : Comme le dit la chanson, [We've Only Just Begun](https://www.youtube.com/watch?v=__VQX2Xn7tI) !
+## I.4 Chamada à ação
+
+Como coordenadores da comunidade local, estamos muito felizes e orgulhosos do que conquistámos até agora, mas queremos mais[^5]! É por isso que incentivamos colegas de todo o mundo a iniciarem OSCs locais nas suas universidades/ politécnicos ou centros de investigação, para criar impulso para uma mudança de cultura global na academia em direção à Ciência Aberta (*Figura 5*). Então, convidamo-lo a iniciar uma OSC local. Por favor, conecte-se connosco para que possa começar com um exemplo já desenvolvido e fazer uso de nossa rede ativa de Coordenadores da Comunidade, para trocar experiências e ideias. Além disso, à medida que a rede se expande, estaríamos em melhor posição para candidatura coletiva a financiamento (inter)nacional e contribuir para políticas (inter)nacionais. Tornar-se parte da crescente rede de OSCs significa que você adere aos nossos Princípios Orientadores e Código de Conduta coletivos, mas projeta e gere a sua comunidade como achar melhor, levando em consideração o contexto local. Juntos, fazemos da Ciência Aberta a norma, em benefício da ciência e da sociedade!
+
+***
+
+![Objetivo e Propósito da INOSC - International Network of Open Science Communities](./fig5.png "Objetivo e Propósito da INOSC - International Network of Open Science Communities")
+***Figura 5**. Objetivo e propósito da Rede Internacional de Comunidades Científicas Abertas (INOSC)).*
+
+***
+
+[^1]: O termo “Ciência” é usado aqui no seu sentido mais amplo e inclui áreas como humanidades, ciências sociais e engenharia; isto é, refere-se mais a qualquer forma de conhecimento.\
+[^2]: É interessante notar que, embora as OSCs sejam abertas a membros de todas as disciplinas, os fundadores destas comunidades são muitas vezes investigadores da área das Ciências Sociais. Isso provavelmente ocorre porque o discurso em torno da Ciência Aberta é muito vivo nesta área, mas também porque a maioria dos coordenadores de OSCs participa nos mesmos eventos. Um dos mais influentes a este respeito é a reunião anual da Sociedade para o Aperfeiçoamento das Ciências Psicológicas ([SIPS](http://improvingpsych.org/)), onde o formato da OSC foi ativamente promovido pelos fundadores da OSCU.\
+[^3]: No caso de Loek Brinkman e Antonio Schettino, esse processo de reflexão foi inspirado no programa [eLife Innovation Leaders](https://elifesciences.org/labs/ea8e2f51/introducing-innovation-leaders-2020), que também foi inspirado no [Mozilla Open Leaders](https://foundation.mozilla.org/en/initiatives/mozilla-open-leaders/).\
+[^4]: OSCA é uma colaboração entre duas universidades: a Universidade de Amsterdã (UvA) e a Vrije Universiteit Amsterdam (VU).\
+[^5]: [E nós apenas começámos!](https://www.youtube.com/watch?v=__VQX2Xn7tI)!
