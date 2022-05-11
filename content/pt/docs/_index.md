@@ -1,23 +1,23 @@
 ---
-title: 'Préambule'
+title: 'Prefácio'
 type: book  # Do not modify.
 toc: false # remove the right sidebar for table of contents
 ---
 
-La science ouverte améliore la **qualité**, l'**accessibilité** et l'**efficacité** de la science, mais n'est **pas encore la norme** dans la recherche. Alors que des chercheurs pionniers développent et adoptent des pratiques de science ouverte, la majorité s'en tient au *statu quo*. Pour **passer des pionniers à la pratique courante**, nous devons impliquer une proportion critique de la communauté des chercheurs. C'est là que les Communautés science ouverte entrent en jeu !
+A Ciência Aberta melhora a qualidade, a acessibilidade e a eficiência da ciência, mas não é ainda a norma em investigação. Enquanto académicos e estudantes pioneiros estão a desenvolver e a adotar práticas de Ciência Aberta, a maioria continua a manter o status quo. Para se conseguir passar a forma de trabalhar destes pioneiros para a prática comum, é preciso envolver uma proporção crítica da comunidade de investigação. É aqui que as Comunidades de Ciência Aberta entram em ação!
 
-Les Communautés science ouverte forment un espace où **les nouveaux arrivants et les pairs expérimentés** interagissent, **s'inspirent mutuellement pour adopter** les pratiques et les valeurs de la science ouverte, identifient **les opportunités** et **les pièges**, et **font un retour sur les feuilles de route, l'infrastructure et les services de soutien**. De même, les Communautés science ouverte forment un espace où les chercheurs et les acteurs de la société peuvent se rencontrer, s'inspirer et co-créer.
+As Comunidades de Ciência Aberta representam um local onde recém-chegados e colegas experientes interagem e inspiram-se mutuamente a adotar práticas e valores de Ciência Aberta. Aqui, identificam-se oportunidades e ameaças, e fornece-se feedback sobre políticas, infraestruturas e serviços de apoio. Da mesma forma, as Comunidades de Ciência Aberta são lugares onde investigadores e partes interessadas da sociedade se podem encontrar, inspirar e co-criar.
 
-La taille et le nombre de Communautés science ouverte ne cessent de croître. En créant un élan et en atteignant une masse critique, les Communautés science ouverte sont à l'origine d'un changement culturel en faveur de la science ouverte.
+Tanto o tamanho como o número de Comunidades de Ciência Aberta continuam a crescer. Ao criar impulso e massa crítica, as Comunidades de Ciência Aberta inauguram uma mudança cultural em direção à Ciência Aberta.
 
-Vous pouvez en être !
+Você pode fazer parte disso!
 
-Ce kit de démarrage vous fournit les arguments, le modèle et les directives pour lancer votre propre Communauté science ouverte locale. Alors n'hésitez pas à vous lancer et vous mettre en relation avec nous.
+Este Kit de Iniciação fornece a lógica, o design e as diretrizes para iniciar sua própria Comunidade de Ciência Aberta, a nível local. Siga connosco este caminho e conecte-se.
 
-Ensemble, nous ouvrons la science !
+Juntos, tornamos a ciência aberta!
 
 ***
 
-![Les quatre étapes du développement d'une Communauté science ouverte](./OSC-4-stages.png "Les quatre étapes du développement d'une Communauté science ouverte")
+![As quatro etapas do desenvolvimento de uma comunidade científica aberta](./OSC-4-stages.png "As quatro etapas do desenvolvimento de uma comunidade científica aberta")
 
 ***
