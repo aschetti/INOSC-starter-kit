@@ -8,6 +8,7 @@
   contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
 
 # Uncomment the lines below to configure your website in a second language.
+# French
 [fr]
   languageCode = "fr"
   contentDir = "content/fr"
@@ -16,5 +17,16 @@
     description = "Ce kit de démarrage vous fournit les arguments, le modèle et les directives pour lancer votre propre Communauté science ouverte locale. Alors n'hésitez pas à vous lancer et vous mettre en relation avec nous."
   [[fr.menu.main]]
     name = "Kit de démarrage INOSC"
+    url = "docs/"
+    weight = 1
+# Portuguese
+[pt]
+  languageCode = "pt"
+  contentDir = "content/pt"
+  title = "Kit de Iniciação de uma Comunidade de Ciência Aberta do Projeto INOSC"
+  [pt.params]
+    description = "Este Kit de Iniciação fornece a lógica, o design e as diretrizes para iniciar sua própria Comunidade de Ciência Aberta, a nível local. Siga connosco este caminho e conecte-se."
+  [[pt.menu.main]]
+    name = "Kit de Iniciação de uma Comunidade de Ciência Aberta do Projeto INOSC"
     url = "docs/"
     weight = 1
