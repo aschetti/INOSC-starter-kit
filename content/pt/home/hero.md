@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Kit de démarrage Communauté science ouverte"
+title = "Kit de Iniciação de uma Comunidade de Ciência Aberta do Projeto INOSC"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
 hero_media = "image1.png"
@@ -38,7 +38,7 @@ hero_media = "image1.png"
 #   Remove a link/note by deleting a cta/note block.
 [cta]
   url = "docs/"
-  label = "C'est parti !"
+  label = "Vamos!"
   icon_pack = "fas"
   icon = "arrow-circle-right"
 
@@ -51,4 +51,4 @@ hero_media = "image1.png"
 #   label = '<span class="js-github-release" data-repo="gcushen/hugo-academic">Show your product version here:<!-- V --></span>'
 +++
 
-Créez et faites grandir une Communauté science ouverte locale
+Criar e desenvolver uma comunidade científica aberta local.
