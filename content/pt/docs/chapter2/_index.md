@@ -1,6 +1,6 @@
 ---
 # Title, summary, and page position.
-linktitle: 'Seção II: Lance e reforce a sua comunidade científica aberta
+linktitle: 'Seção II: Lance e reforce a sua comunidade científica aberta'
 summary: ''
 weight: 1
 icon: book
