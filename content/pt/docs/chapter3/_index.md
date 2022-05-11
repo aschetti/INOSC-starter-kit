@@ -1,39 +1,39 @@
 ---
 # Title, summary, and page position.
-linktitle: 'Remerciements'
+linktitle: 'Agradecimentos e Contribuições'
 summary: ''
 weight: 3
 icon: book
 icon_pack: fas
 
 # Page metadata.
-title: 'Remerciements et contributions'
-date: "2021-10-11"
+title: 'Agradecimentos e Contribuições'
+date: "2022-05-11"
 type: book  # Do not modify.
 toc: false # remove the right sidebar for table of contents
 ---
 
-La version du kit de démarrage que vous venez de lire est basée sur notre expérience à ce jour. De nouvelles perspectives ne manqueront pas d'apparaître selon l'expérience des responsables de Communauté actuels et futurs. Nous ferons le point sur les expériences pertinentes lors des réunions régulières des coordinateurs de Communauté (et sommes ouverts aux commentaires/contributions de toute autre personne) et réviserons régulièrement le kit de démarrage.
+A versão do Starter Kit que acabou de ler é baseada nas nossas experiências até ao momento. Novos contributos devem surgir com base na experiência de líderes de Comunitários atuais e de novas Comunidades. Faremos um balanço das experiências relevantes durante as reuniões recorrentes dos Coordenadores da Comunidade (e estamos abertos a comentários/contribuições de qualquer outra pessoa) e atualizaremos o Starter Kit regularmente.
 
-Les infographies avec les fleurs et les abeilles ont été conçues par Geralda van Es ([SPresso Design](https://spresso.nl/)) et ont été financées par le [Plan national pour la science ouverte néerlandais](https://www.openscience.nl/en/national-platform-open-science/national-plan-open-science) (Projet H : [Accélérer la science ouverte](https://www.accelerateopenscience.nl/)) et sont sous licence CC-BY (INOSC et SPresso Design).
+Os infográficos com flores e abelhas foram desenhados por Geralda van Es ([SPresso Design](https://spresso.nl/)) e foram financiados pelo [Dutch National Plan Open Science](https://www.openscience.nl/en/national-platform-open-science/national-plan-open-science) (Project H: [Accelerate Open Science](https://www.accelerateopenscience.nl/)) e são licenciados sob CC-BY (INOSC e SPresso Design).
 
-Les contributions des auteurs sont précisées dans le tableau ci-dessous.
+As contribuições dos autores estão especificadas na tabela abaixo.
 
 ***
 
 | Name       | Affiliation     | Contribution    |
 | :------------- | :----------: | -----------: |
-| Loek Brinkman | University Medical Centre Utrecht, Open Science Community Utrecht, Pays-Bas | Coordinateur |
-| Antonio Schettino | Erasmus University Rotterdam, Open Science Community Rotterdam | Coordinateur |
-| Raul Zurita-Milla | University of Twente, Open Science community Twente, Pays-Bas | Nombreuses contributions et suggestions sur le texte |
-| Anita Eerland | Utrecht University, Open Science Community Utrecht | Nombreuses contributions et suggestions sur le texte |
-| Melanie Imming | Coordinateur du projet H du Plan national pour la science ouverte néerlandais "Accélérer la science ouverte" | Contribution à la partie I.3 |
+| Loek Brinkman | University Utrecht Medical Center, Holanda | Líder, Open Science Community Utrecht |
+| Antonio Schettino | Erasmus University Rotterdam, Holanda | Líder, Open Science Community Rotterdam |
+| Raul Zurita-Milla | Universidade de Twente, Holanda, Open Science Community Twente | Amplas contribuições e sugestões para o texto |
+| Anita Eerland | Utrecht University, Holanda, Open Science Community Utrecht | Amplas contribuições e sugestões para o texto |
+| Melanie Imming | Líder de "Accelerate Open Science", Projeto H da Plataforma Nacional Holandesa Open Science | Input para a Seção 1.3 |
 | Eirini Zormpa | T.B.D. | T.B.D. |
 | Hardy Schwamm | T.B.D. | T.B.D. |
-| Vera E. Heininga | University of Groningen, Open Science Community Groningen | Contributions et suggestions sur le texte, principalement parties I.3 et I.4. Suggestion sur la figure I.1 |
-| Emmy Tsang | TU Delft, Open Science Community Delft | Partie II.3e "Développement de la communauté" |
-| Anna van ‘t Veer | Leiden University, Methodology and Statistics unit of Psychology | ontributions et suggestions sur le texte. Partie II.3c "Interactions entre le monde académique et la société" |
-| Antoine Blanchard | Datactivist | Traduction du kit en français |
-| Candice Fillaud | Datactivist | Adaptation des images en français |
+| Vera E. Heininga | Universidade de Groningen, Open Science Community Groningen | Contribuições e sugestões ao texto, principalmente em I.3 e III.4; sugestão de figura em I.1 |
+| Emmy Tsang | TU Delft, Open Science Community Delft | Seção 3e "Community Building" |
+| Anna van ‘t Veer | Unidade de Metodologia e Estatística em  Psicologia, Leiden University | Contribuições e sugestões ao texto; Seção 3c "Interações entre academia e sociedade" |
+| Antoine Blanchard | Datactivist | Tradução francesa |
+| Candice Fillaud | Datactivist | Tradução francesa (imagens) |
 
 ***
