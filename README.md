@@ -12,7 +12,7 @@ Source code of the website of the [INOSC Starter Kit](https://osf.io/7vez3/). De
 
 ## How to start a development server
 
-First, Install [Hugo](https://gohugo.io/installation/)
+First, install [Hugo](https://gohugo.io/installation/).
 
 Then, start a development server:
 
