@@ -9,3 +9,15 @@ Source code of the website of the [INOSC Starter Kit](https://osf.io/7vez3/). De
 ![INOSC logo](./static/media/INOSC_logo.jpg)
 
 ***
+
+## How to start a development server
+
+First, install [Hugo](https://gohugo.io/installation/).
+
+Then, start a development server:
+
+```bash
+hugo serve
+```
+
+You can access the site at http://localhost:1313/
