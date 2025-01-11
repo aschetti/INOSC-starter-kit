@@ -35,5 +35,6 @@ As contribuições dos autores estão especificadas na tabela abaixo.
 | Anna van ‘t Veer | Unidade de Metodologia e Estatística em  Psicologia, Leiden University | Contribuições e sugestões ao texto; Seção 3c "Interações entre academia e sociedade" |
 | Antoine Blanchard | Datactivist | Tradução francesa |
 | Candice Fillaud | Datactivist | Tradução francesa (imagens) |
+| Denise Capela dos Santos | Research & Innovation Center for Health | Tradução português |
 
 ***

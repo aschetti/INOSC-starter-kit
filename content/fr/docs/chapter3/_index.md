@@ -35,5 +35,6 @@ Les contributions des auteurs sont précisées dans le tableau ci-dessous.
 | Anna van ‘t Veer | Leiden University, Methodology and Statistics unit of Psychology | ontributions et suggestions sur le texte. Partie II.3c "Interactions entre le monde académique et la société" |
 | Antoine Blanchard | Datactivist | Traduction du kit en français |
 | Candice Fillaud | Datactivist | Adaptation des images en français |
+| Denise Capela dos Santos | Research & Innovation Center for Health | Traduction du kit en portugais |
 
 ***
