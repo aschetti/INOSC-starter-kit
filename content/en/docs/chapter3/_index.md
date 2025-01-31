@@ -15,7 +15,7 @@ toc: false # remove the right sidebar for table of contents
 
 The version of the Starter Kit you have just read is based on our experiences so far. New insights are bound to arise based on the experience of current and new community leaders. We will take stock of relevant experiences during the recurring meetings of the community coordinators (and are open to comments/contributions from anyone else) and will revise the Starter Kit on a regular basis.
 
-The infographics with flowers and bees have been designed by Geralda van Es ([SPresso Design](https://spresso.nl/)) and were funded by the Dutch [National Plan Open Science](https://www.openscience.nl/en/national-platform-open-science/national-plan-open-science) (Project H: [Accelerate Open Science](https://www.accelerateopenscience.nl/)) and are licenced under CC-BY (INOSC and SPresso Design).
+The infographics with flowers and bees have been designed by Geralda van Es ([SPresso Design](https://spresso.nl/)) and were funded by the Dutch [National Plan Open Science](https://www.openscience.nl) (Project H: Accelerate Open Science) and are licenced under CC-BY (INOSC and SPresso Design).
 
 Author contributions are specified in the table below.
 
